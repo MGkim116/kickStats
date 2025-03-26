@@ -1,0 +1,214 @@
+{
+    "id": 330460,
+    "name": "Ilija Kovacic",
+    "birthDate": {
+        "utcTime": "1992-06-02T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": null,
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "keeper",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 190,
+                "key": null,
+                "fallback": "190 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 32,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "32"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Croatia"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "CRO"
+            },
+            "countryCode": "CRO"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 9930,
+                        "team": "Aarau",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1456790400000,
+                        "endDate": 1467849600000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 7895,
+                        "team": "Chiasso",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1435708800000,
+                        "endDate": 1454716800000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 10190,
+                        "team": "St. Gallen",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1309478400000,
+                        "endDate": 1435622400000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 10177,
+                        "team": "Schaffhausen",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1467936000000,
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "ilija-kovacic",
+        "pageurl": "/players/330460/ilija-kovacic",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Ilija Kovacic?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ilija Kovacic is 32 years old. Born on Tue Jun 02 1992."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Ilija Kovacic?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ilija Kovacic is 190 cm tall. Or 6 ft 2.8 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Ilija Kovacic born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ilija Kovacic was born Tue Jun 02 1992 and is now 32 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Ilija Kovacic from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ilija Kovacic is from Croatia."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Ilija Kovacic",
+            "birthDate": "1992-06-02T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/330460/ilija-kovacic",
+            "nationality": {
+                "@type": "Country",
+                "name": "Croatia"
+            },
+            "affiliation": null,
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "190"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "82"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Ilija Kovacic",
+                    "item": "https://www.fotmob.com/leagues/330460/overview/ilija-kovacic"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "unattached"
+}
