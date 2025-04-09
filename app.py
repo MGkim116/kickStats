@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 
 # 제목 설정
 st.title('축구 선수 데이터 분석 대시보드')
