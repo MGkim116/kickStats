@@ -14,7 +14,7 @@ def fetch_player_data(player_id):
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
         'sec-ch-ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"',
         'sec-ch-ua-mobile': '?0',
-        'x-mas': 'eyJib2R5Ijp7InVybCI6Ii9hcGkvcGxheWVyRGF0YT9pZD0yMTI4NjciLCJjb2RlIjoxNzQ0MTk4NDEwNjQxLCJmb28iOiJwcm9kdWN0aW9uOjYxNDNkZWVhMmM2ODdkNzBhOTU5MTZlY2YzOTIzZTk1ZmRlYjMzYWQtdW5kZWZpbmVkIn0sInNpZ25hdHVyZSI6IkYwMEMxNzhBMENGMDYzQjQ5ODc5N0I2MUEwMUM4QkFBIn0='
+        'x-mas': 'eyJib2R5Ijp7InVybCI6Ii9hcGkvcGxheWVyRGF0YT9pZD0yMTI4NjciLCJjb2RlIjoxNzQ0MjAxMTg1MjA4LCJmb28iOiJwcm9kdWN0aW9uOjYxNDNkZWVhMmM2ODdkNzBhOTU5MTZlY2YzOTIzZTk1ZmRlYjMzYWQtdW5kZWZpbmVkIn0sInNpZ25hdHVyZSI6IjEyRDkwQ0U1ODA4QTlDMUZDNTYxQkZDMTIyNTI5NDAxIn0='
     }
     
     # 최대 재시도 횟수 설정
