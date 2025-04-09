@@ -1,244 +1,121 @@
-import requests
-import json
 import time
-import os
-import pandas as pd
-from datetime import datetime
 
-def fetch_player_data(player_id):
-    """선수 ID를 사용하여 FotMob API에서 데이터를 수집하는 함수"""
-    url = f"https://www.fotmob.com/api/playerData?id={player_id}"
-    
-    headers = {
-        'sec-ch-ua-platform': 'macOS',
-        'Referer': f'https://www.fotmob.com/players/{player_id}',
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
-        'sec-ch-ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"',
-        'sec-ch-ua-mobile': '?0',
-        'x-mas': 'eyJib2R5Ijp7InVybCI6Ii9hcGkvcGxheWVyRGF0YT9pZD0yMTI4NjciLCJjb2RlIjoxNzQyOTg4ODU2NDY5LCJmb28iOiJwcm9kdWN0aW9uOmQ0ZjNiMzliOGQ2ZDBiMmE0MmNiYmQ2ZWM2Mjg5NzkyMjY4ODI2NTItdW5kZWZpbmVkIn0sInNpZ25hdHVyZSI6Ijc3NUE3QkJCRkNEQjlGMzREREIxODQ0NzM1ODk2RENFIn0='
-    }
-    
-    # 참고: 실제로는 x-mas 헤더가 필요할 수 있습니다
-    
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()  # HTTP 오류 체크
-        return response.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching data for player ID {player_id}: {e}")
-        return None
-
-def save_raw_data(data, player_id):
-    """수집한 원본 데이터를 파일로 저장"""
-    os.makedirs('raw_data', exist_ok=True)
-    
-    with open(f'raw_data/player_{player_id}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    
-    print(f"Raw data for player {player_id} saved successfully")
-
-def extract_player_info(data):
-    """선수의 기본 정보 추출"""
-    try:
-        player_info = {
-            'id': data['id'],
-            'name': data['name'],
-            'birth_date': data['birthDate']['utcTime'],
-            'team': data['primaryTeam']['teamName'],
-            'team_id': data['primaryTeam']['teamId'],
-            'position': data['positionDescription']['primaryPosition']['label'],
-            'is_captain': data['isCaptain'],
-            'country': None,
-            'height': None,
-            'shirt': None,
-            'age': None,
-            'preferred_foot': None,
-            'market_value': None
-        }
-        
-        # 선수 세부 정보 추출
-        for item in data['playerInformation']:
-            title = item['title'].lower()
-            if title == 'country':
-                player_info['country'] = item['value'].get('fallback')
-            elif title == 'height':
-                player_info['height'] = item['value'].get('numberValue')
-            elif title == 'shirt':
-                player_info['shirt'] = item['value'].get('numberValue')
-            elif title == 'age':
-                player_info['age'] = item['value'].get('numberValue')
-            elif title == 'preferred foot':
-                player_info['preferred_foot'] = item['value'].get('key')
-            elif title == 'market value':
-                player_info['market_value'] = item['value'].get('numberValue')
-        
-        return player_info
-    except KeyError as e:
-        print(f"Error extracting player info: {e}")
-        return None
-
-def extract_match_data(data):
-    """선수의 경기 데이터 추출"""
-    try:
-        matches = []
-        player_id = data['id']
-        
-        for match in data['recentMatches']:
-            match_info = {
-                'player_id': player_id,
-                'match_id': match['id'],
-                'match_date': match['matchDate']['utcTime'],
-                'league_id': match['leagueId'],
-                'league_name': match['leagueName'],
-                'team_id': match['teamId'],
-                'team_name': match['teamName'],
-                'opponent_team_id': match['opponentTeamId'],
-                'opponent_team_name': match['opponentTeamName'],
-                'is_home': match['isHomeTeam'],
-                'home_score': match['homeScore'],
-                'away_score': match['awayScore'],
-                'minutes_played': match['minutesPlayed'],
-                'goals': match['goals'],
-                'assists': match['assists'],
-                'yellow_cards': match['yellowCards'],
-                'red_cards': match['redCards'],
-                'rating': match.get('ratingProps', {}).get('num', None)
-            }
-            matches.append(match_info)
-            
-        return matches
-    except KeyError as e:
-        print(f"Error extracting match data: {e}")
-        return []
-
-def extract_stats_data(data):
-    """선수의 리그 통계 데이터 추출"""
-    try:
-        stats = []
-        player_id = data['id']
-        
-        if 'mainLeague' in data and 'stats' in data['mainLeague']:
-            league_id = data['mainLeague']['leagueId']
-            league_name = data['mainLeague']['leagueName']
-            season = data['mainLeague']['season']
-            
-            for stat in data['mainLeague']['stats']:
-                stat_info = {
-                    'player_id': player_id,
-                    'league_id': league_id,
-                    'league_name': league_name,
-                    'season': season,
-                    'title': stat['title'],
-                    'value': stat['value']
-                }
-                stats.append(stat_info)
-                
-        return stats
-    except KeyError as e:
-        print(f"Error extracting stats data: {e}")
-        return []
-
-def process_player_to_csv(player_id, save_raw=True):
-    """선수 데이터를 가져와서 처리하고 CSV 파일로 저장"""
-    print(f"Processing player ID: {player_id}")
-    
-    # 데이터 가져오기
-    player_data = fetch_player_data(player_id)
-    if not player_data:
-        print(f"Could not fetch data for player {player_id}")
-        return False
-    
-    # 원본 데이터 저장 (옵션)
-    if save_raw:
-        save_raw_data(player_data, player_id)
-    
-    try:
-        # 데이터 추출
-        player_info = extract_player_info(player_data)
-        match_data = extract_match_data(player_data)
-        stats_data = extract_stats_data(player_data)
-        
-        # CSV 폴더 생성
-        os.makedirs('csv_data', exist_ok=True)
-        
-        # 데이터프레임 생성 및 CSV 저장
-        if player_info:
-            player_df = pd.DataFrame([player_info])
-            player_csv_path = f'csv_data/player_{player_id}.csv'
-            player_df.to_csv(player_csv_path, index=False)
-            print(f"Player info saved to {player_csv_path}")
-        
-        if match_data:
-            matches_df = pd.DataFrame(match_data)
-            matches_csv_path = f'csv_data/matches_{player_id}.csv'
-            matches_df.to_csv(matches_csv_path, index=False)
-            print(f"Match data saved to {matches_csv_path}")
-        
-        if stats_data:
-            stats_df = pd.DataFrame(stats_data)
-            stats_csv_path = f'csv_data/stats_{player_id}.csv'
-            stats_df.to_csv(stats_csv_path, index=False)
-            print(f"Stats data saved to {stats_csv_path}")
-            
-        print(f"Successfully processed and stored data for player {player_id}")
-        return True
-    except Exception as e:
-        print(f"Error processing player {player_id}: {e}")
-        return False
-
-def combine_csv_files():
-    """모든 선수의 CSV 파일을 종류별로 합쳐서 단일 CSV 파일로 만듦"""
-    try:
-        # CSV 파일 목록 가져오기
-        player_files = [f for f in os.listdir('csv_data') if f.startswith('player_')]
-        match_files = [f for f in os.listdir('csv_data') if f.startswith('matches_')]
-        stats_files = [f for f in os.listdir('csv_data') if f.startswith('stats_')]
-        
-        # 선수 데이터 합치기
-        player_dfs = [pd.read_csv(os.path.join('csv_data', f)) for f in player_files]
-        if player_dfs:
-            all_players_df = pd.concat(player_dfs, ignore_index=True)
-            all_players_df.to_csv('all_players.csv', index=False)
-            print(f"Combined {len(player_dfs)} player files into all_players.csv")
-        
-        # 경기 데이터 합치기
-        match_dfs = [pd.read_csv(os.path.join('csv_data', f)) for f in match_files]
-        if match_dfs:
-            all_matches_df = pd.concat(match_dfs, ignore_index=True)
-            all_matches_df.to_csv('all_matches.csv', index=False)
-            print(f"Combined {len(match_dfs)} match files into all_matches.csv")
-        
-        # 통계 데이터 합치기
-        stats_dfs = [pd.read_csv(os.path.join('csv_data', f)) for f in stats_files]
-        if stats_dfs:
-            all_stats_df = pd.concat(stats_dfs, ignore_index=True)
-            all_stats_df.to_csv('all_stats.csv', index=False)
-            print(f"Combined {len(stats_dfs)} stats files into all_stats.csv")
-            
-        return True
-    except Exception as e:
-        print(f"Error combining CSV files: {e}")
-        return False
+from data_processor import process_player_data, save_to_csv, get_valid_player_ids
+from id_explorer import explore_player_ids
 
 def main():
-    # 처리할 선수 ID 목록
-    player_ids = [
-        212867,  # 손흥민
-        312765,
-        1077894
-        # 원하는 선수 ID 추가
-    ]
+    # 선택할 모드
+    print("선택할 모드:")
+    print("1. 특정 선수 ID 목록 처리 (CSV 파일 생성)")
+    print("2. 선수 ID 범위 탐색 (CSV 파일 생성)")
+    print("3. 이미 찾은 유효한 선수만 처리 (CSV 파일 생성)")
     
-    # 각 선수 처리 및 CSV 저장
-    for player_id in player_ids:
-        process_player_to_csv(player_id)
-        # API 요청 사이에 약간의 지연 추가
-        time.sleep(2)
+    mode = input("모드 선택 (1-3): ")
     
-    # 모든 CSV 파일 합치기
-    combine_csv_files()
+    # CSV 파일명 입력 받기
+    base_filename = input("저장할 CSV 파일 기본 이름 입력 (기본: football_players_data): ") or "football_players_data"
     
-    print("Data collection and processing completed")
+    if mode == "1":
+        # 특정 선수 ID 목록 처리
+        print("\n선수 ID 목록 입력 방법:")
+        print("- 여러 ID는 쉼표로 구분 (예: 212867,312765,1077894)")
+        print("- 입력하지 않으면 기본 ID 목록이 사용됩니다")
+        player_ids_input = input("\n처리할 선수 ID 입력: ")
+        
+        player_ids = []
+        if player_ids_input.strip():
+            # 쉼표로 구분된 ID 처리
+            for id_str in player_ids_input.split(","):
+                id_str = id_str.strip()
+                if id_str.isdigit():
+                    player_ids.append(int(id_str))
+                else:
+                    print(f"경고: '{id_str}'은(는) 유효한 숫자가 아니므로 무시됩니다.")
+        
+        if not player_ids:
+            player_ids = [
+                212867,  # 손흥민
+                312765,  # 다른 선수
+                1077894  # 다른 선수
+            ]
+            print(f"유효한 ID가 입력되지 않아 기본 ID 목록을 사용합니다: {player_ids}")
+        
+        # 데이터프레임 컬렉션 초기화
+        player_dfs = []
+        matches_dfs = []
+        stats_dfs = []
+        
+        for player_id in player_ids:
+            player_df, matches_df, stats_df = process_player_data(player_id)
+            
+            if player_df is not None:
+                player_dfs.append(player_df)
+            if matches_df is not None:
+                matches_dfs.append(matches_df)
+            if stats_df is not None:
+                stats_dfs.append(stats_df)
+                
+            time.sleep(2)
+        
+        # CSV 파일 저장
+        save_to_csv(player_dfs, matches_dfs, stats_dfs, base_filename)
+    
+    elif mode == "2":
+        # 선수 ID 범위 탐색
+        print("\n탐색할 선수 ID 범위 입력:")
+        start_id = int(input("시작 ID 입력 (기본: 212867): ") or "212867")
+        end_id = int(input("종료 ID 입력 (기본: 213000): ") or "213000")
+        batch_size = int(input("배치 크기 입력 (기본: 10): ") or "10")
+        delay = float(input("요청 간 지연 시간(초) 입력 (기본: 2): ") or "2")
+        
+        explore_player_ids(start_id, end_id, batch_size, delay, base_filename)
+    
+    elif mode == "3":
+        # 유효한 선수만 처리
+        valid_ids = get_valid_player_ids()
+        if not valid_ids:
+            print("유효한 선수 ID가 없습니다. 먼저 ID 탐색을 실행하세요.")
+            return
+        
+        print(f"\n총 {len(valid_ids)}명의 유효한 선수를 찾았습니다.")
+        if len(valid_ids) > 10:
+            print(f"유효한 선수 ID 일부: {valid_ids[:10]}... (외 {len(valid_ids)-10}개)")
+        else:
+            print(f"유효한 선수 ID: {valid_ids}")
+        
+        confirm = input("\n이 선수들의 데이터를 처리하시겠습니까? (y/n): ")
+        if confirm.lower() == 'y':
+            # 데이터프레임 컬렉션 초기화
+            player_dfs = []
+            matches_dfs = []
+            stats_dfs = []
+            
+            for i, player_id in enumerate(valid_ids):
+                player_df, matches_df, stats_df = process_player_data(player_id)
+                
+                if player_df is not None:
+                    player_dfs.append(player_df)
+                if matches_df is not None:
+                    matches_dfs.append(matches_df)
+                if stats_df is not None:
+                    stats_dfs.append(stats_df)
+                
+                time.sleep(2)
+                
+                # 중간 저장 (10명마다)
+                if (i + 1) % 10 == 0:
+                    print(f"중간 결과 저장 중... ({i+1}/{len(valid_ids)})")
+                    save_to_csv(player_dfs, matches_dfs, stats_dfs, base_filename)
+            
+            # 최종 저장
+            save_to_csv(player_dfs, matches_dfs, stats_dfs, base_filename)
+        else:
+            print("처리를 취소했습니다.")
+    
+    else:
+        print("잘못된 모드를 선택했습니다.")
+    
+    print("작업이 완료되었습니다.")
 
 if __name__ == "__main__":
     main()
