@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 제목 설정
@@ -31,9 +30,3 @@ if selected_player:
     player_matches = matches_df[matches_df['player_id'] == player_id]
     st.dataframe(player_matches)
     
-    # 통계 차트
-    if not player_matches.empty:
-        st.subheader('득점과 어시스트')
-        fig, ax = plt.subplots(figsize=(10, 5))
-        player_matches.plot(x='match_date', y=['goals', 'assists'], kind='bar', ax=ax)
-        st.pyplot(fig)
