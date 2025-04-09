@@ -1,0 +1,264 @@
+{
+    "id": 212885,
+    "name": "Björn Bussmann",
+    "birthDate": {
+        "utcTime": "1991-03-18T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 96917,
+        "teamName": "Caudal Deportivo",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#333333",
+            "colorAlternate": "#DDDDDD",
+            "colorAway": "#333333",
+            "colorAwayAlternate": "#DDDDDD"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "keeper",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 34,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "34"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        }
+    ],
+    "mainLeague": {
+        "leagueId": 9138,
+        "leagueName": "Segunda Federacion - Group 1",
+        "season": "2023/2024",
+        "stats": [
+            {
+                "title": "Clean sheets",
+                "localizedTitleId": "clean_sheet_title",
+                "value": 0
+            },
+            {
+                "title": "Saved penalties",
+                "localizedTitleId": "saved_penalties",
+                "value": "0/0"
+            },
+            {
+                "title": "Matches",
+                "localizedTitleId": "matches_uppercase",
+                "value": 0
+            },
+            {
+                "title": "Minutes played",
+                "localizedTitleId": "minutes_played",
+                "value": 0
+            },
+            {
+                "title": "Yellow cards",
+                "localizedTitleId": "yellow_cards",
+                "value": 0
+            },
+            {
+                "title": "Red cards",
+                "localizedTitleId": "red_cards",
+                "value": 1
+            }
+        ]
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 96917,
+                        "team": "Caudal Deportivo",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": true,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 88516,
+                        "team": "Lippstadt",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 9775,
+                        "team": "VfL Osnabrück",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 7789,
+                        "team": "Jahn Regensburg",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "bjorn-bussmann",
+        "pageurl": "/players/212885/bjorn-bussmann",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Björn Bussmann?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Björn Bussmann is 34 years old. Born on Mon Mar 18 1991."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Björn Bussmann born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Björn Bussmann was born Mon Mar 18 1991 and is now 34 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Björn Bussmann from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Björn Bussmann is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Björn Bussmann",
+            "birthDate": "1991-03-18T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212885/bjorn-bussmann",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "Caudal Deportivo"
+            },
+            "gender": "https://schema.org/Male",
+            "height": null,
+            "weight": null
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Segunda Federacion - Group 1 2023/2024",
+                    "item": "https://www.fotmob.com/leagues/9138/overview/segunda-federacion-group-1-20232024"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Caudal Deportivo",
+                    "item": "https://www.fotmob.com/teams/96917/overview/caudal-deportivo"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Björn Bussmann",
+                    "item": "https://www.fotmob.com/leagues/212885/overview/bjorn-bussmann"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2023/2024",
+            "tournaments": [
+                {
+                    "name": "Segunda Federacion - Group 1",
+                    "tournamentId": 9138,
+                    "entryId": "0-0"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": null,
+    "status": "active"
+}

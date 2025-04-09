@@ -1,0 +1,156 @@
+{
+    "id": 212878,
+    "name": "Marian Florea",
+    "birthDate": {
+        "utcTime": "1982-06-11T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": null,
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "defender",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 42,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "42"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Romania"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "ROU"
+            },
+            "countryCode": "ROU"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 2429,
+                        "team": "Astra Giurgiu",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "marian-florea",
+        "pageurl": "/players/212878/marian-florea",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Marian Florea?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Marian Florea is 42 years old. Born on Fri Jun 11 1982."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Marian Florea born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Marian Florea was born Fri Jun 11 1982 and is now 42 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Marian Florea from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Marian Florea is from Romania."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Marian Florea",
+            "birthDate": "1982-06-11T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212878/marian-florea",
+            "nationality": {
+                "@type": "Country",
+                "name": "Romania"
+            },
+            "affiliation": null,
+            "gender": "https://schema.org/Male",
+            "height": null,
+            "weight": null
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Marian Florea",
+                    "item": "https://www.fotmob.com/leagues/212878/overview/marian-florea"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "unattached"
+}

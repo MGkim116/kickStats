@@ -1,0 +1,285 @@
+{
+    "id": 212879,
+    "name": "Florian Trinks",
+    "birthDate": {
+        "utcTime": "1992-03-11T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 7780,
+        "teamName": "FC Schweinfurt",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#007830",
+            "colorAlternate": "#007830",
+            "colorAway": "#007830",
+            "colorAwayAlternate": "#007830"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "midfielder",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 183,
+                "key": null,
+                "fallback": "183 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 10,
+                "options": {},
+                "key": null,
+                "fallback": 10
+            },
+            "title": "Shirt",
+            "translationKey": "shirt"
+        },
+        {
+            "value": {
+                "numberValue": 33,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "33"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 7780,
+                        "team": "FC Schweinfurt",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1533254400000,
+                        "endDate": "",
+                        "active": true,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 6596,
+                        "team": "Chemnitzer FC",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1498867200000,
+                        "endDate": 1533254400000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8222,
+                        "team": "Ferencvaros",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1451606400000,
+                        "endDate": 1498867200000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8357,
+                        "team": "Greuther Fürth",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1359590400000,
+                        "endDate": 1453766400000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8697,
+                        "team": "Werder Bremen",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "florian-trinks",
+        "pageurl": "/players/212879/florian-trinks",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Florian Trinks?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Florian Trinks is 33 years old. Born on Wed Mar 11 1992."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Florian Trinks?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Florian Trinks is 183 cm tall. Or 6 ft 0 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Florian Trinks born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Florian Trinks was born Wed Mar 11 1992 and is now 33 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Florian Trinks from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Florian Trinks is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Florian Trinks",
+            "birthDate": "1992-03-11T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212879/florian-trinks",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "FC Schweinfurt"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "183"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "73"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "FC Schweinfurt",
+                    "item": "https://www.fotmob.com/teams/7780/overview/fc-schweinfurt"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Florian Trinks",
+                    "item": "https://www.fotmob.com/leagues/212879/overview/florian-trinks"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2015/2016",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "0-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2014/2015",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "1-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2011/2012",
+            "tournaments": [
+                {
+                    "name": "Bundesliga",
+                    "tournamentId": 54,
+                    "entryId": "2-0"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": null,
+    "status": "active"
+}

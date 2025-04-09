@@ -1,0 +1,2742 @@
+{
+    "id": 212874,
+    "name": "Felicio Brown Forbes",
+    "birthDate": {
+        "utcTime": "1991-08-28T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 1282988,
+        "teamName": "Yanbian Longding",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#333333",
+            "colorAlternate": "#DDDDDD",
+            "colorAway": "#333333",
+            "colorAwayAlternate": "#DDDDDD"
+        }
+    },
+    "positionDescription": {
+        "positions": [
+            {
+                "strPos": {
+                    "label": "Right Winger",
+                    "key": "rightwinger"
+                },
+                "strPosShort": {
+                    "label": "RW",
+                    "key": "rightwinger_short"
+                },
+                "occurences": 1,
+                "position": "103",
+                "isMainPosition": false,
+                "pitchPositionData": null
+            },
+            {
+                "strPos": {
+                    "label": "Striker",
+                    "key": "striker"
+                },
+                "strPosShort": {
+                    "label": "ST",
+                    "key": "striker_short"
+                },
+                "occurences": 15,
+                "position": "104",
+                "isMainPosition": true,
+                "pitchPositionData": {
+                    "right": 0.5,
+                    "top": 0.1
+                }
+            }
+        ],
+        "primaryPosition": {
+            "label": "Striker",
+            "key": "striker"
+        },
+        "nonPrimaryPositions": []
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 188,
+                "key": null,
+                "fallback": "188 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 33,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "33"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": "both",
+                "fallback": "Both"
+            },
+            "title": "Preferred foot",
+            "translationKey": "preferred_foot"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Costa Rica"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "CRC"
+            },
+            "countryCode": "CRC"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": {
+        "playerTrophies": [],
+        "coachTrophies": []
+    },
+    "recentMatches": [
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 165243,
+            "opponentTeamName": "Buriram United",
+            "isHomeTeam": false,
+            "id": 4526291,
+            "matchDate": {
+                "utcTime": "2024-12-22T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/buriram-united-vs-muang-thong-united/p37g938#4526291",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 0,
+            "minutesPlayed": 61,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "5.9",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 243243,
+            "opponentTeamName": "Chiangrai United",
+            "isHomeTeam": false,
+            "id": 4526306,
+            "matchDate": {
+                "utcTime": "2024-12-15T12:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-chiangrai-united/12buis6c#4526306",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 1,
+            "minutesPlayed": 90,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.6",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 46038,
+            "opponentTeamName": "Jeonbuk Hyundai Motors FC",
+            "isHomeTeam": true,
+            "id": 4610965,
+            "matchDate": {
+                "utcTime": "2024-12-05T11:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/jeonbuk-hyundai-motors-fc-vs-muang-thong-united/a95qwor#4610965",
+            "leagueId": 9469,
+            "leagueName": "AFC Champions League Two Grp. H",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 0,
+            "minutesPlayed": 90,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.4",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 165223,
+            "opponentTeamName": "Selangor",
+            "isHomeTeam": false,
+            "id": 4610980,
+            "matchDate": {
+                "utcTime": "2024-11-28T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/selangor-vs-muang-thong-united/p33il0q#4610980",
+            "leagueId": 9469,
+            "leagueName": "AFC Champions League Two Grp. H",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 2,
+            "minutesPlayed": 85,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.6",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 102231,
+            "opponentTeamName": "Bangkok United",
+            "isHomeTeam": true,
+            "id": 4526326,
+            "matchDate": {
+                "utcTime": "2024-11-23T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/bangkok-united-vs-muang-thong-united/gfmolhe#4526326",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 1,
+            "minutesPlayed": 89,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.9",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 165252,
+            "opponentTeamName": "Nakhon Pathom",
+            "isHomeTeam": true,
+            "id": 4526333,
+            "matchDate": {
+                "utcTime": "2024-11-11T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-nakhon-pathom/p398080#4526333",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 1,
+            "minutesPlayed": 90,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "8.5",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 1393048,
+            "opponentTeamName": "Cebu FC",
+            "isHomeTeam": false,
+            "id": 4610987,
+            "matchDate": {
+                "utcTime": "2024-11-07T11:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-cebu-fc/fhrsv5vh#4610987",
+            "leagueId": 9469,
+            "leagueName": "AFC Champions League Two Grp. H",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 9,
+            "minutesPlayed": 62,
+            "goals": 2,
+            "assists": 1,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "9.1",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 585025,
+            "opponentTeamName": "Prachuap FC",
+            "isHomeTeam": true,
+            "id": 4526342,
+            "matchDate": {
+                "utcTime": "2024-11-02T12:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-prachuap-fc/3lastpd7#4526342",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 2,
+            "minutesPlayed": 73,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.5",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 165255,
+            "opponentTeamName": "Port FC",
+            "isHomeTeam": false,
+            "id": 4526319,
+            "matchDate": {
+                "utcTime": "2024-10-27T12:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-port-fc/p39t9a6#4526319",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 90,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 1,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.8",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 1393048,
+            "opponentTeamName": "Cebu FC",
+            "isHomeTeam": true,
+            "id": 4610988,
+            "matchDate": {
+                "utcTime": "2024-10-23T14:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-cebu-fc/fhrsv5vh#4610988",
+            "leagueId": 9469,
+            "leagueName": "AFC Champions League Two Grp. H",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 2,
+            "minutesPlayed": 90,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "8.0",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 165250,
+            "opponentTeamName": "BG Pathum United",
+            "isHomeTeam": true,
+            "id": 4526316,
+            "matchDate": {
+                "utcTime": "2024-10-19T16:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/bg-pathum-united-vs-muang-thong-united/p38tu6q#4526316",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 89,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.0",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 46038,
+            "opponentTeamName": "Jeonbuk Hyundai Motors FC",
+            "isHomeTeam": false,
+            "id": 4610962,
+            "matchDate": {
+                "utcTime": "2024-10-03T10:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/jeonbuk-hyundai-motors-fc-vs-muang-thong-united/a95qwor#4610962",
+            "leagueId": 9469,
+            "leagueName": "AFC Champions League Two Grp. H",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 1,
+            "minutesPlayed": 31,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.7",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 626802,
+            "opponentTeamName": "Khonkaen United FC",
+            "isHomeTeam": true,
+            "id": 4526279,
+            "matchDate": {
+                "utcTime": "2024-09-27T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-khonkaen-united-fc/403lzv6x#4526279",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 0,
+            "minutesPlayed": 45,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.3",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 165223,
+            "opponentTeamName": "Selangor",
+            "isHomeTeam": true,
+            "id": 4610990,
+            "matchDate": {
+                "utcTime": "2024-09-19T12:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/selangor-vs-muang-thong-united/p33il0q#4610990",
+            "leagueId": 9469,
+            "leagueName": "AFC Champions League Two Grp. H",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 32,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.3",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 584943,
+            "opponentTeamName": "Sukhothai FC",
+            "isHomeTeam": true,
+            "id": 4526301,
+            "matchDate": {
+                "utcTime": "2024-09-15T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-sukhothai-fc/3l9s74p6#4526301",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 2,
+            "minutesPlayed": 45,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.5",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 626806,
+            "opponentTeamName": "Nong Bua Pitchaya FC",
+            "isHomeTeam": false,
+            "id": 4526294,
+            "matchDate": {
+                "utcTime": "2024-08-31T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-nong-bua-pitchaya-fc/403nvrt7#4526294",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 0,
+            "minutesPlayed": 45,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.3",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 421346,
+            "opponentTeamName": "Ratchaburi FC",
+            "isHomeTeam": true,
+            "id": 4526244,
+            "matchDate": {
+                "utcTime": "2024-08-28T13:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-ratchaburi-fc/271ddhfl#4526244",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 0,
+            "minutesPlayed": 65,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.5",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 584984,
+            "opponentTeamName": "Rayong FC",
+            "isHomeTeam": false,
+            "id": 4526250,
+            "matchDate": {
+                "utcTime": "2024-08-23T14:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-rayong-fc/3laaiedu#4526250",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 74,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.6",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 584947,
+            "opponentTeamName": "Lamphun Warrior",
+            "isHomeTeam": true,
+            "id": 4526266,
+            "matchDate": {
+                "utcTime": "2024-08-18T13:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-lamphun-warrior/3l9tzg4g#4526266",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 0,
+            "minutesPlayed": 45,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.4",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165251,
+            "teamName": "Muang Thong United",
+            "opponentTeamId": 554037,
+            "opponentTeamName": "Nakhon Ratchasima FC",
+            "isHomeTeam": false,
+            "id": 4526259,
+            "matchDate": {
+                "utcTime": "2024-08-11T14:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/muang-thong-united-vs-nakhon-ratchasima-fc/3au8gx0x#4526259",
+            "leagueId": 8984,
+            "leagueName": "Thai League",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 1,
+            "minutesPlayed": 63,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.2",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 165184,
+            "teamName": "East Bengal FC",
+            "opponentTeamId": 589749,
+            "opponentTeamName": "Punjab FC",
+            "isHomeTeam": false,
+            "id": 4412998,
+            "matchDate": {
+                "utcTime": "2024-04-10T16:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/east-bengal-fc-vs-punjab-fc/3mwrjkvg#4412998",
+            "leagueId": 9478,
+            "leagueName": "Indian Super League",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 1,
+            "minutesPlayed": 27,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "5.8",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        }
+    ],
+    "careerHistory": {
+        "showFootnote": false,
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "participantId": 212874,
+                        "teamId": -1,
+                        "team": "Yanbian Longding FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2025-01-12T00:00:00",
+                        "endDate": null,
+                        "active": true,
+                        "role": null,
+                        "appearances": "3",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 165251,
+                        "team": "Muang Thong United",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2024-07-26T00:00:00",
+                        "endDate": "2024-12-31T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "22",
+                        "goals": "10",
+                        "assists": "1",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 165184,
+                        "team": "East Bengal FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2024-02-01T00:00:00",
+                        "endDate": "2024-05-31T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "11",
+                        "goals": "1",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 4183,
+                        "team": "Qingdao Hainiu",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2023-02-22T00:00:00",
+                        "endDate": "2024-01-04T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "23",
+                        "goals": "7",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 198612,
+                        "team": "Wuhan Yangtze River",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free agent",
+                            "localizationKey": "transfer_type_free_agent"
+                        },
+                        "startDate": "2022-04-15T00:00:00",
+                        "endDate": "2023-02-22T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "30",
+                        "goals": "12",
+                        "assists": "1",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 10265,
+                        "team": "Wisła Kraków",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2020-10-05T00:00:00",
+                        "endDate": "2022-03-11T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "42",
+                        "goals": "12",
+                        "assists": "1",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 4024,
+                        "team": "Raków Częstochowa",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2019-07-01T00:00:00",
+                        "endDate": "2020-10-05T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "30",
+                        "goals": "12",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8245,
+                        "team": "Korona Kielce",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2018-07-20T00:00:00",
+                        "endDate": "2019-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "20",
+                        "goals": "3",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8681,
+                        "team": "Amkar-Perm",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2017-09-11T00:00:00",
+                        "endDate": "2018-05-31T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "16",
+                        "goals": "2",
+                        "assists": "1",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8707,
+                        "team": "Anzhi Makhachkala",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        },
+                        "startDate": "2017-02-24T00:00:00",
+                        "endDate": "2017-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "5",
+                        "goals": "1",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 1677,
+                        "team": "Arsenal Tula",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2016-03-18T00:00:00",
+                        "endDate": "2017-02-24T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "22",
+                        "goals": "4",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8705,
+                        "team": "FC Rostov",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2015-08-31T00:00:00",
+                        "endDate": "2015-12-31T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": null,
+                        "goals": null,
+                        "assists": null,
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 198150,
+                        "team": "FC Ufa",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2014-07-13T00:00:00",
+                        "endDate": "2015-05-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "10",
+                        "goals": "1",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8709,
+                        "team": "Krylya Sovetov Samara",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2013-09-19T00:00:00",
+                        "endDate": "2014-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "16",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 178836,
+                        "team": "FSV Frankfurt II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2013-01-31T00:00:00",
+                        "endDate": "2013-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "11",
+                        "goals": "4",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 88885,
+                        "team": "FSV Frankfurt",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2013-01-31T00:00:00",
+                        "endDate": "2013-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": null,
+                        "goals": null,
+                        "assists": null,
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2012-07-01T00:00:00",
+                        "endDate": "2013-01-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "16",
+                        "goals": "2",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2012-07-01T00:00:00",
+                        "endDate": "2012-09-05T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": null,
+                        "goals": null,
+                        "assists": null,
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 7782,
+                        "team": "Oberhausen",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2011-07-05T00:00:00",
+                        "endDate": "2012-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "35",
+                        "goals": "6",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8320,
+                        "team": "Carl Zeiss Jena",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        },
+                        "startDate": "2011-01-20T00:00:00",
+                        "endDate": "2011-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "15",
+                        "goals": "4",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2010-07-01T00:00:00",
+                        "endDate": "2011-01-19T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": null,
+                        "goals": null,
+                        "assists": null,
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212874,
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2010-07-01T00:00:00",
+                        "endDate": "2011-01-19T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "13",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    }
+                ],
+                "seasonEntries": [
+                    {
+                        "seasonName": "2025",
+                        "appearances": "3",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Chinese Football League 1",
+                                "seasonName": "2025",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": -1,
+                        "team": "Yanbian Longding FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2024/2025",
+                        "appearances": "22",
+                        "goals": "10",
+                        "assists": "1",
+                        "rating": {
+                            "num": "7.0",
+                            "bgcolor": "rgba(51, 199, 113, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 8984,
+                                "leagueName": "Thai League",
+                                "seasonName": "2024/2025",
+                                "tournamentId": 23782,
+                                "goals": "4",
+                                "assists": "0",
+                                "appearances": "14",
+                                "rating": {
+                                    "num": "6.9",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9469,
+                                "leagueName": "AFC Champions League Two",
+                                "seasonName": "2024/2025",
+                                "tournamentId": 24071,
+                                "goals": "4",
+                                "assists": "1",
+                                "appearances": "6",
+                                "rating": {
+                                    "num": "7.5",
+                                    "bgcolor": "rgba(51, 199, 113, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "FA Cup",
+                                "seasonName": "2024/2025",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "League Cup",
+                                "seasonName": "2024/2025",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 165251,
+                        "team": "Muang Thong United",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2023/2024",
+                        "appearances": "11",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.1",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9478,
+                                "leagueName": "Indian Super League",
+                                "seasonName": "2023/2024",
+                                "tournamentId": 21961,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "11",
+                                "rating": {
+                                    "num": "6.1",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 165184,
+                        "team": "East Bengal FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2023",
+                        "appearances": "23",
+                        "goals": "7",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.5",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 120,
+                                "leagueName": "Super League",
+                                "seasonName": "2023",
+                                "tournamentId": 19095,
+                                "goals": "7",
+                                "assists": "0",
+                                "appearances": "21",
+                                "rating": {
+                                    "num": "6.5",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9550,
+                                "leagueName": "Cup",
+                                "seasonName": "2023",
+                                "tournamentId": 20239,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 4183,
+                        "team": "Qingdao Hainiu",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2022",
+                        "appearances": "30",
+                        "goals": "12",
+                        "assists": "1",
+                        "rating": {
+                            "num": "6.8",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 120,
+                                "leagueName": "Super League",
+                                "seasonName": "2022",
+                                "tournamentId": 17395,
+                                "goals": "12",
+                                "assists": "1",
+                                "appearances": "30",
+                                "rating": {
+                                    "num": "6.8",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 198612,
+                        "team": "Wuhan Yangtze River",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free agent",
+                            "localizationKey": "transfer_type_free_agent"
+                        }
+                    },
+                    {
+                        "seasonName": "2021/2022",
+                        "appearances": "20",
+                        "goals": "5",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 196,
+                                "leagueName": "Ekstraklasa",
+                                "seasonName": "2021/2022",
+                                "tournamentId": 16441,
+                                "goals": "2",
+                                "assists": "0",
+                                "appearances": "18",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2021/2022",
+                                "tournamentId": -1,
+                                "goals": "3",
+                                "assists": "undefined",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 10265,
+                        "team": "Wisła Kraków",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2020/2021",
+                        "appearances": "22",
+                        "goals": "7",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 196,
+                                "leagueName": "Ekstraklasa",
+                                "seasonName": "2020/2021",
+                                "tournamentId": 15390,
+                                "goals": "7",
+                                "assists": "1",
+                                "appearances": "22",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 10265,
+                        "team": "Wisła Kraków",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2020/2021",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 196,
+                                "leagueName": "Ekstraklasa",
+                                "seasonName": "2020/2021",
+                                "tournamentId": 15390,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 4024,
+                        "team": "Raków Częstochowa",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2019/2020",
+                        "appearances": "29",
+                        "goals": "12",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 196,
+                                "leagueName": "Ekstraklasa",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 13952,
+                                "goals": "10",
+                                "assists": "0",
+                                "appearances": "27",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2019/2020",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "undefined",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 4024,
+                        "team": "Raków Częstochowa",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2018/2019",
+                        "appearances": "20",
+                        "goals": "3",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 196,
+                                "leagueName": "Ekstraklasa",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12736,
+                                "goals": "3",
+                                "assists": "0",
+                                "appearances": "19",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2018/2019",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8245,
+                        "team": "Korona Kielce",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2017/2018",
+                        "appearances": "16",
+                        "goals": "2",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 11500,
+                                "goals": "2",
+                                "assists": "0",
+                                "appearances": "13",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 193,
+                                "leagueName": "Russian Cup",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 11813,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9333,
+                                "leagueName": "Premier League Qualification",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 12647,
+                                "goals": "0",
+                                "assists": "1",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8681,
+                        "team": "Amkar-Perm",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2016/2017",
+                        "appearances": "5",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2016/2017",
+                                "tournamentId": 10445,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8707,
+                        "team": "Anzhi Makhachkala",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        }
+                    },
+                    {
+                        "seasonName": "2016/2017",
+                        "appearances": "14",
+                        "goals": "2",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2016/2017",
+                                "tournamentId": 10445,
+                                "goals": "2",
+                                "assists": "0",
+                                "appearances": "14",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 1677,
+                        "team": "Arsenal Tula",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2015/2016",
+                        "appearances": "8",
+                        "goals": "2",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "First League",
+                                "seasonName": "2015/2016",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "undefined",
+                                "appearances": "8",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 1677,
+                        "team": "Arsenal Tula",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2014/2015",
+                        "appearances": "10",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8583,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "9",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 193,
+                                "leagueName": "Russian Cup",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8899,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 198150,
+                        "team": "FC Ufa",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2013/2014",
+                        "appearances": "16",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2013/2014",
+                                "tournamentId": 7768,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "15",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 193,
+                                "leagueName": "Russian Cup",
+                                "seasonName": "2013/2014",
+                                "tournamentId": 8047,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8709,
+                        "team": "Krylya Sovetov Samara",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "11",
+                        "goals": "4",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": -1,
+                                "goals": "4",
+                                "assists": "undefined",
+                                "appearances": "11",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 178836,
+                        "team": "FSV Frankfurt II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "16",
+                        "goals": "2",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "undefined",
+                                "appearances": "16",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011/2012",
+                        "appearances": "35",
+                        "goals": "6",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2011/2012",
+                                "tournamentId": 6163,
+                                "goals": "6",
+                                "assists": "undefined",
+                                "appearances": "34",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2011/2012",
+                                "tournamentId": 6104,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 7782,
+                        "team": "Oberhausen",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2010/2011",
+                        "appearances": "15",
+                        "goals": "4",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2010/2011",
+                                "tournamentId": 5360,
+                                "goals": "4",
+                                "assists": "undefined",
+                                "appearances": "15",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8320,
+                        "team": "Carl Zeiss Jena",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        }
+                    },
+                    {
+                        "seasonName": "2010/2011",
+                        "appearances": "13",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2010/2011",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "13",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    }
+                ]
+            },
+            "national team": {
+                "teamEntries": [
+                    {
+                        "participantId": 212874,
+                        "teamId": 6705,
+                        "team": "Costa Rica",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2014-10-06T00:00:00",
+                        "endDate": "2021-05-31T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    }
+                ],
+                "seasonEntries": [
+                    {
+                        "seasonName": "2021",
+                        "appearances": "2",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.0",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2021",
+                                "tournamentId": 15943,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "6.0",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 6705,
+                        "team": "Costa Rica",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2020",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "5.8",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2020",
+                                "tournamentId": 14773,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "5.8",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 6705,
+                        "team": "Costa Rica",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2014",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2014",
+                                "tournamentId": 8170,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 6705,
+                        "team": "Costa Rica",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    }
+                ]
+            }
+        },
+        "fullCareer": true
+    },
+    "traits": {
+        "key": "stats_comparison_forwards",
+        "title": "Stats compared to other forwards",
+        "items": [
+            {
+                "key": "chances_created",
+                "title": "Chances created",
+                "value": 0.01
+            },
+            {
+                "key": "aerials_won",
+                "title": "Aerial duels",
+                "value": 0.76
+            },
+            {
+                "key": "defensive_actions",
+                "title": "Defensive actions",
+                "value": 0.33
+            },
+            {
+                "key": "goals",
+                "title": "Goals",
+                "value": 0.62
+            },
+            {
+                "key": "shot_attempts",
+                "title": "Shot attempts",
+                "value": 0.68
+            },
+            {
+                "key": "touches",
+                "title": "Touches",
+                "value": 0.38
+            }
+        ]
+    },
+    "meta": {
+        "seopath": "felicio-brown-forbes",
+        "pageurl": "/players/212874/felicio-brown-forbes",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Felicio Brown Forbes?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Felicio Brown Forbes is 33 years old. Born on Wed Aug 28 1991."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Felicio Brown Forbes?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Felicio Brown Forbes is 188 cm tall. Or 6 ft 2 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Felicio Brown Forbes born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Felicio Brown Forbes was born Wed Aug 28 1991 and is now 33 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Which is Felicio Brown Forbes's preferred foot?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Felicio Brown Forbes's preferred foot is both."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Felicio Brown Forbes from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Felicio Brown Forbes is from Costa Rica."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Felicio Brown Forbes",
+            "birthDate": "1991-08-28T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212874/felicio-brown-forbes",
+            "nationality": {
+                "@type": "Country",
+                "name": "Costa Rica"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "Yanbian Longding"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "188"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "83"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Yanbian Longding",
+                    "item": "https://www.fotmob.com/teams/1282988/overview/yanbian-longding"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Felicio Brown Forbes",
+                    "item": "https://www.fotmob.com/leagues/212874/overview/felicio-brown-forbes"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2024/2025",
+            "tournaments": [
+                {
+                    "name": "Thai League",
+                    "tournamentId": 8984,
+                    "entryId": "0-0"
+                },
+                {
+                    "name": "AFC Champions League Two",
+                    "tournamentId": 9469,
+                    "entryId": "0-1"
+                }
+            ]
+        },
+        {
+            "seasonName": "2023/2024",
+            "tournaments": [
+                {
+                    "name": "Indian Super League",
+                    "tournamentId": 9478,
+                    "entryId": "1-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2023",
+            "tournaments": [
+                {
+                    "name": "Super League",
+                    "tournamentId": 120,
+                    "entryId": "2-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2022",
+            "tournaments": [
+                {
+                    "name": "Super League",
+                    "tournamentId": 120,
+                    "entryId": "3-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2021/2022",
+            "tournaments": [
+                {
+                    "name": "Ekstraklasa",
+                    "tournamentId": 196,
+                    "entryId": "4-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2020/2021",
+            "tournaments": [
+                {
+                    "name": "Ekstraklasa",
+                    "tournamentId": 196,
+                    "entryId": "5-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2019/2020",
+            "tournaments": [
+                {
+                    "name": "Ekstraklasa",
+                    "tournamentId": 196,
+                    "entryId": "6-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2018/2019",
+            "tournaments": [
+                {
+                    "name": "Ekstraklasa",
+                    "tournamentId": 196,
+                    "entryId": "7-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2017/2018",
+            "tournaments": [
+                {
+                    "name": "Premier League",
+                    "tournamentId": 63,
+                    "entryId": "8-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2016/2017",
+            "tournaments": [
+                {
+                    "name": "Premier League",
+                    "tournamentId": 63,
+                    "entryId": "9-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2014/2015",
+            "tournaments": [
+                {
+                    "name": "Premier League",
+                    "tournamentId": 63,
+                    "entryId": "10-0"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": {
+        "sectionOrder": [
+            "top-stat-card",
+            "shotmap",
+            "stats-section"
+        ],
+        "statsSection": {
+            "id": "stats-section",
+            "items": [
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "goals",
+                            "per90": 0.37344398340248963,
+                            "percentileRank": 48.64864864864865,
+                            "percentileRankPer90": 43.24324324324324,
+                            "statFormat": "number",
+                            "statValue": "4",
+                            "title": "Goals"
+                        },
+                        {
+                            "localizedTitleId": "goals_subtitle",
+                            "per90": 0.09336099585062241,
+                            "percentileRank": 56.75675675675676,
+                            "percentileRankPer90": 70.27027027027027,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "Penalty goals"
+                        },
+                        {
+                            "localizedTitleId": "shots",
+                            "per90": 3.454356846473029,
+                            "percentileRank": 59.45945945945946,
+                            "percentileRankPer90": 81.08108108108108,
+                            "statFormat": "number",
+                            "statValue": "37",
+                            "title": "Shots"
+                        },
+                        {
+                            "localizedTitleId": "ShotsOnTarget",
+                            "per90": 0.8402489626556017,
+                            "percentileRank": 43.24324324324324,
+                            "percentileRankPer90": 27.027027027027028,
+                            "statFormat": "number",
+                            "statValue": "9",
+                            "title": "Shots on target"
+                        }
+                    ],
+                    "localizedTitleId": "shooting",
+                    "title": "Shooting",
+                    "type": "stat-values"
+                },
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "assists",
+                            "per90": 0,
+                            "percentileRank": 0,
+                            "percentileRankPer90": 0,
+                            "statFormat": "number",
+                            "statValue": "0",
+                            "title": "Assists"
+                        },
+                        {
+                            "localizedTitleId": "successful_passes",
+                            "per90": 15.591286307053942,
+                            "percentileRank": 48.64864864864865,
+                            "percentileRankPer90": 64.86486486486487,
+                            "statFormat": "number",
+                            "statValue": "167",
+                            "title": "Accurate passes"
+                        },
+                        {
+                            "localizedTitleId": "successful_passes_accuracy",
+                            "per90": 74.55357142857143,
+                            "percentileRank": 59.45945945945946,
+                            "percentileRankPer90": 59.45945945945946,
+                            "statFormat": "percent",
+                            "statValue": "74.6",
+                            "title": "Pass accuracy"
+                        },
+                        {
+                            "localizedTitleId": "long_balls_accurate",
+                            "per90": 0.2800829875518672,
+                            "percentileRank": 32.432432432432435,
+                            "percentileRankPer90": 27.027027027027028,
+                            "statFormat": "number",
+                            "statValue": "3",
+                            "title": "Accurate long balls"
+                        },
+                        {
+                            "localizedTitleId": "long_ball_succeeeded_accuracy",
+                            "per90": 60,
+                            "percentileRank": 59.45945945945946,
+                            "percentileRankPer90": 59.45945945945946,
+                            "statFormat": "percent",
+                            "statValue": "60.0",
+                            "title": "Long ball accuracy"
+                        },
+                        {
+                            "localizedTitleId": "chances_created",
+                            "per90": 1.2136929460580914,
+                            "percentileRank": 59.45945945945946,
+                            "percentileRankPer90": 56.75675675675676,
+                            "statFormat": "number",
+                            "statValue": "13",
+                            "title": "Chances created"
+                        },
+                        {
+                            "localizedTitleId": "crosses_succeeeded",
+                            "per90": 0.09336099585062241,
+                            "percentileRank": 35.13513513513514,
+                            "percentileRankPer90": 40.54054054054054,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "Successful crosses"
+                        },
+                        {
+                            "localizedTitleId": "crosses_succeeeded_accuracy",
+                            "per90": 100,
+                            "percentileRank": 100,
+                            "percentileRankPer90": 100,
+                            "statFormat": "percent",
+                            "statValue": "100.0",
+                            "title": "Cross accuracy"
+                        }
+                    ],
+                    "localizedTitleId": "passing",
+                    "title": "Passing",
+                    "type": "stat-values"
+                },
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "dribbles_succeeded",
+                            "per90": 0.46680497925311204,
+                            "percentileRank": 48.64864864864865,
+                            "percentileRankPer90": 54.054054054054056,
+                            "statFormat": "number",
+                            "statValue": "5",
+                            "title": "Dribbles"
+                        },
+                        {
+                            "localizedTitleId": "won_contest_subtitle",
+                            "per90": 38.46153846153846,
+                            "percentileRank": 40.54054054054054,
+                            "percentileRankPer90": 40.54054054054054,
+                            "statFormat": "percent",
+                            "statValue": "38.5",
+                            "title": "Dribbles success rate"
+                        },
+                        {
+                            "localizedTitleId": "touches",
+                            "per90": 32.20954356846473,
+                            "percentileRank": 43.24324324324324,
+                            "percentileRankPer90": 40.54054054054054,
+                            "statFormat": "number",
+                            "statValue": "345",
+                            "title": "Touches"
+                        },
+                        {
+                            "localizedTitleId": "touches_opp_box",
+                            "per90": 6.161825726141079,
+                            "percentileRank": 56.75675675675676,
+                            "percentileRankPer90": 83.78378378378379,
+                            "statFormat": "number",
+                            "statValue": "66",
+                            "title": "Touches in opposition box"
+                        },
+                        {
+                            "localizedTitleId": "dispossessed",
+                            "per90": 0.5601659751037344,
+                            "percentileRank": 59.45945945945946,
+                            "percentileRankPer90": 86.48648648648648,
+                            "statFormat": "number",
+                            "statValue": "6",
+                            "title": "Dispossessed"
+                        },
+                        {
+                            "localizedTitleId": "fouls_won",
+                            "per90": 1.3070539419087137,
+                            "percentileRank": 37.83783783783784,
+                            "percentileRankPer90": 43.24324324324324,
+                            "statFormat": "number",
+                            "statValue": "14",
+                            "title": "Fouls won"
+                        },
+                        {
+                            "localizedTitleId": "penalty_won_title",
+                            "per90": 0.09336099585062241,
+                            "percentileRank": 64.86486486486487,
+                            "percentileRankPer90": 78.37837837837837,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "Penalties awarded"
+                        }
+                    ],
+                    "localizedTitleId": "possession",
+                    "title": "Possession",
+                    "type": "stat-values"
+                },
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "duel_won",
+                            "per90": 4.481327800829876,
+                            "percentileRank": 54.054054054054056,
+                            "percentileRankPer90": 45.94594594594595,
+                            "statFormat": "number",
+                            "statValue": "48",
+                            "title": "Duels won"
+                        },
+                        {
+                            "localizedTitleId": "duel_won_percent",
+                            "per90": 43.63636363636363,
+                            "percentileRank": 29.72972972972973,
+                            "percentileRankPer90": 29.72972972972973,
+                            "statFormat": "percent",
+                            "statValue": "43.6",
+                            "title": "Duels won %"
+                        },
+                        {
+                            "localizedTitleId": "aerials_won",
+                            "per90": 2.70746887966805,
+                            "percentileRank": 72.97297297297297,
+                            "percentileRankPer90": 78.37837837837837,
+                            "statFormat": "number",
+                            "statValue": "29",
+                            "title": "Aerials won"
+                        },
+                        {
+                            "localizedTitleId": "aerials_won_percent",
+                            "per90": 49.152542372881356,
+                            "percentileRank": 59.45945945945946,
+                            "percentileRankPer90": 59.45945945945946,
+                            "statFormat": "percent",
+                            "statValue": "49.2",
+                            "title": "Aerials won %"
+                        },
+                        {
+                            "localizedTitleId": "interceptions",
+                            "per90": 0.18672199170124482,
+                            "percentileRank": 40.54054054054054,
+                            "percentileRankPer90": 43.24324324324324,
+                            "statFormat": "number",
+                            "statValue": "2",
+                            "title": "Interceptions"
+                        },
+                        {
+                            "localizedTitleId": "shot_blocked",
+                            "per90": 0.8402489626556017,
+                            "percentileRank": 67.56756756756756,
+                            "percentileRankPer90": 78.37837837837837,
+                            "statFormat": "number",
+                            "statValue": "9",
+                            "title": "Blocked scoring attempt"
+                        },
+                        {
+                            "localizedTitleId": "fouls",
+                            "per90": 1.5871369294605808,
+                            "percentileRank": 62.16216216216216,
+                            "percentileRankPer90": 56.75675675675676,
+                            "statFormat": "number",
+                            "statValue": "17",
+                            "title": "Fouls committed"
+                        },
+                        {
+                            "localizedTitleId": "recoveries",
+                            "per90": 1.4937759336099585,
+                            "percentileRank": 43.24324324324324,
+                            "percentileRankPer90": 37.83783783783784,
+                            "statFormat": "number",
+                            "statValue": "16",
+                            "title": "Recoveries"
+                        },
+                        {
+                            "localizedTitleId": "poss_won_att_3rd_team_title",
+                            "per90": 0.2800829875518672,
+                            "percentileRank": 40.54054054054054,
+                            "percentileRankPer90": 40.54054054054054,
+                            "statFormat": "number",
+                            "statValue": "3",
+                            "title": "Possession won final 3rd"
+                        },
+                        {
+                            "localizedTitleId": "dribbled_past",
+                            "per90": 0.37344398340248963,
+                            "percentileRank": 29.72972972972973,
+                            "percentileRankPer90": 21.62162162162162,
+                            "statFormat": "number",
+                            "statValue": "4",
+                            "title": "Dribbled past"
+                        }
+                    ],
+                    "localizedTitleId": "defending",
+                    "title": "Defending",
+                    "type": "stat-values"
+                },
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "yellow_cards",
+                            "per90": 0.09336099585062241,
+                            "percentileRank": 40.54054054054054,
+                            "percentileRankPer90": 51.35135135135135,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "Yellow cards"
+                        },
+                        {
+                            "localizedTitleId": "red_cards",
+                            "per90": 0,
+                            "percentileRank": 100,
+                            "percentileRankPer90": 100,
+                            "statFormat": "number",
+                            "statValue": "0",
+                            "title": "Red cards"
+                        }
+                    ],
+                    "localizedTitleId": "discipline",
+                    "title": "Discipline",
+                    "type": "stat-values"
+                }
+            ],
+            "localizedTitleId": "season_performance",
+            "title": "Season performance",
+            "type": "grouped-stat-values"
+        },
+        "topStatCard": {
+            "display": "stats-group",
+            "id": "top-stat-card",
+            "items": [
+                {
+                    "localizedTitleId": "goals",
+                    "per90": 0.37344398340248963,
+                    "percentileRank": 48.64864864864865,
+                    "percentileRankPer90": 43.24324324324324,
+                    "statFormat": "number",
+                    "statValue": "4",
+                    "title": "Goals"
+                },
+                {
+                    "localizedTitleId": "assists",
+                    "per90": 0,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 0,
+                    "statFormat": "number",
+                    "statValue": "0",
+                    "title": "Assists"
+                },
+                {
+                    "localizedTitleId": "rating",
+                    "per90": 6.850714285714286,
+                    "percentileRank": 54.054054054054056,
+                    "percentileRankPer90": 54.054054054054056,
+                    "statFormat": "fraction",
+                    "statValue": "6.85",
+                    "title": "Rating"
+                },
+                {
+                    "localizedTitleId": "matches_uppercase",
+                    "per90": 14,
+                    "percentileRank": 40.54054054054054,
+                    "percentileRankPer90": 40.54054054054054,
+                    "statFormat": "number",
+                    "statValue": "14",
+                    "title": "Matches"
+                },
+                {
+                    "localizedTitleId": "player_started_matches",
+                    "per90": 12,
+                    "percentileRank": 45.94594594594595,
+                    "percentileRankPer90": 78.37837837837837,
+                    "statFormat": "number",
+                    "statValue": "12",
+                    "title": "Started"
+                },
+                {
+                    "localizedTitleId": "minutes_played",
+                    "per90": 90,
+                    "percentileRank": 45.94594594594595,
+                    "percentileRankPer90": 100,
+                    "statFormat": "number",
+                    "statValue": "964",
+                    "title": "Minutes"
+                }
+            ],
+            "type": "stat-values"
+        },
+        "shotmap": null,
+        "keeperShotmap": null
+    },
+    "status": "active"
+}

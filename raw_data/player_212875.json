@@ -1,0 +1,3000 @@
+{
+    "id": 212875,
+    "name": "Robert Mak",
+    "birthDate": {
+        "utcTime": "1991-03-08T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 6019,
+        "teamName": "Slovan Bratislava",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#43B1E6",
+            "colorAlternate": "#4db8ee",
+            "colorAway": "#000000",
+            "colorAwayAlternate": "#ffffff"
+        }
+    },
+    "positionDescription": {
+        "positions": [
+            {
+                "strPos": {
+                    "label": "Defensive Midfielder",
+                    "key": "centerdefensivemidfielder"
+                },
+                "strPosShort": {
+                    "label": "DM",
+                    "key": "centerdefensivemidfielder_short"
+                },
+                "occurences": 1,
+                "position": "66",
+                "isMainPosition": false,
+                "pitchPositionData": null
+            },
+            {
+                "strPos": {
+                    "label": "Right Winger",
+                    "key": "rightwinger"
+                },
+                "strPosShort": {
+                    "label": "RW",
+                    "key": "rightwinger_short"
+                },
+                "occurences": 5,
+                "position": "83",
+                "isMainPosition": false,
+                "pitchPositionData": {
+                    "right": 0.83,
+                    "top": 0.26,
+                    "ratio": 0.3851851851851852
+                }
+            },
+            {
+                "strPos": {
+                    "label": "Attacking Midfielder",
+                    "key": "centerattackingmidfielder"
+                },
+                "strPosShort": {
+                    "label": "AM",
+                    "key": "centerattackingmidfielder_short"
+                },
+                "occurences": 1,
+                "position": "85",
+                "isMainPosition": false,
+                "pitchPositionData": null
+            },
+            {
+                "strPos": {
+                    "label": "Left Winger",
+                    "key": "leftwinger"
+                },
+                "strPosShort": {
+                    "label": "LW",
+                    "key": "leftwinger_short"
+                },
+                "occurences": 11,
+                "position": "87",
+                "isMainPosition": true,
+                "pitchPositionData": {
+                    "right": 0.17,
+                    "top": 0.26
+                }
+            },
+            {
+                "strPos": {
+                    "label": "Striker",
+                    "key": "striker"
+                },
+                "strPosShort": {
+                    "label": "ST",
+                    "key": "striker_short"
+                },
+                "occurences": 9,
+                "position": "104",
+                "isMainPosition": false,
+                "pitchPositionData": {
+                    "right": 0.5,
+                    "top": 0.1,
+                    "ratio": 0.5333333333333333
+                }
+            }
+        ],
+        "primaryPosition": {
+            "label": "Left Winger",
+            "key": "leftwinger"
+        },
+        "nonPrimaryPositions": [
+            {
+                "label": "Right Winger",
+                "key": "rightwinger"
+            },
+            {
+                "label": "Striker",
+                "key": "striker"
+            }
+        ]
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 179,
+                "key": null,
+                "fallback": "179 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 21,
+                "options": {},
+                "key": null,
+                "fallback": 21
+            },
+            "title": "Shirt",
+            "translationKey": "shirt"
+        },
+        {
+            "value": {
+                "numberValue": 34,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "34"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": "right",
+                "fallback": "Right"
+            },
+            "title": "Preferred foot",
+            "translationKey": "preferred_foot"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Slovakia"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "SVK"
+            },
+            "countryCode": "SVK"
+        },
+        {
+            "value": {
+                "numberValue": 600000,
+                "key": null,
+                "fallback": "€600K"
+            },
+            "title": "Market value",
+            "translationKey": "transfer_value"
+        }
+    ],
+    "mainLeague": {
+        "leagueId": 176,
+        "leagueName": "1. Liga",
+        "season": "2024/2025",
+        "stats": [
+            {
+                "title": "Goals",
+                "localizedTitleId": "goals",
+                "value": 9
+            },
+            {
+                "title": "Assists",
+                "localizedTitleId": "assists",
+                "value": 1
+            },
+            {
+                "title": "Started",
+                "localizedTitleId": "started",
+                "value": 16
+            },
+            {
+                "title": "Matches",
+                "localizedTitleId": "matches_uppercase",
+                "value": 21
+            },
+            {
+                "title": "Minutes played",
+                "localizedTitleId": "minutes_played",
+                "value": 1280
+            },
+            {
+                "title": "Yellow cards",
+                "localizedTitleId": "yellow_cards",
+                "value": 1
+            },
+            {
+                "title": "Red cards",
+                "localizedTitleId": "red_cards",
+                "value": 0
+            }
+        ]
+    },
+    "trophies": {
+        "playerTrophies": [
+            {
+                "ccode": "AUS",
+                "teamId": 10164,
+                "teamName": "Sydney FC",
+                "tournaments": [
+                    {
+                        "ccode": "AUS",
+                        "leagueId": 9471,
+                        "leagueName": "Australia Cup",
+                        "seasonsWon": [
+                            "2023"
+                        ],
+                        "seasonsRunnerUp": []
+                    }
+                ]
+            },
+            {
+                "ccode": "HUN",
+                "teamId": 8222,
+                "teamName": "Ferencvaros",
+                "tournaments": [
+                    {
+                        "ccode": "HUN",
+                        "leagueId": -1,
+                        "leagueName": "NB I",
+                        "seasonsWon": [
+                            "2021/2022",
+                            "2020/2021"
+                        ],
+                        "seasonsRunnerUp": []
+                    },
+                    {
+                        "ccode": "HUN",
+                        "leagueId": -1,
+                        "leagueName": "Magyar Kupa",
+                        "seasonsWon": [
+                            "2021/2022"
+                        ],
+                        "seasonsRunnerUp": []
+                    }
+                ]
+            },
+            {
+                "ccode": "RUS",
+                "teamId": 8698,
+                "teamName": "Zenit St. Petersburg",
+                "tournaments": [
+                    {
+                        "ccode": "RUS",
+                        "leagueId": 63,
+                        "leagueName": "Premier League",
+                        "seasonsWon": [
+                            "2018/2019"
+                        ],
+                        "seasonsRunnerUp": []
+                    },
+                    {
+                        "ccode": "RUS",
+                        "leagueId": 195,
+                        "leagueName": "Super Cup",
+                        "seasonsWon": [
+                            "2016/2017"
+                        ],
+                        "seasonsRunnerUp": [
+                            "2019/2020"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ccode": "GRE",
+                "teamId": 8619,
+                "teamName": "PAOK Thessaloniki FC",
+                "tournaments": [
+                    {
+                        "ccode": "GRE",
+                        "leagueId": -1,
+                        "leagueName": "Cup",
+                        "seasonsWon": [
+                            "2017/2018"
+                        ],
+                        "seasonsRunnerUp": []
+                    }
+                ]
+            },
+            {
+                "ccode": "INT",
+                "teamId": 8497,
+                "teamName": "Slovakia",
+                "tournaments": [
+                    {
+                        "ccode": "INT",
+                        "leagueId": -1,
+                        "leagueName": "King's Cup",
+                        "seasonsWon": [
+                            "2018"
+                        ],
+                        "seasonsRunnerUp": []
+                    }
+                ]
+            }
+        ],
+        "coachTrophies": []
+    },
+    "recentMatches": [
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 9823,
+            "opponentTeamName": "Bayern München",
+            "isHomeTeam": false,
+            "id": 4621514,
+            "matchDate": {
+                "utcTime": "2025-01-29T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-bayern-munchen/22py4y#4621514",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 1,
+            "minutesPlayed": 20,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.0",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 10269,
+            "opponentTeamName": "VfB Stuttgart",
+            "isHomeTeam": true,
+            "id": 4621652,
+            "matchDate": {
+                "utcTime": "2025-01-21T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-vfb-stuttgart/26zfwz#4621652",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 3,
+            "minutesPlayed": 70,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "5.7",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 9906,
+            "opponentTeamName": "Atletico Madrid",
+            "isHomeTeam": false,
+            "id": 4621572,
+            "matchDate": {
+                "utcTime": "2024-12-11T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-atletico-madrid/23i7gp#4621572",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 1,
+            "minutesPlayed": 72,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.0",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 8564,
+            "opponentTeamName": "Milan",
+            "isHomeTeam": true,
+            "id": 4621623,
+            "matchDate": {
+                "utcTime": "2024-11-26T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-milan/1rbehk#4621623",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 3,
+            "minutesPlayed": 1,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 10156,
+            "opponentTeamName": "Dinamo Zagreb",
+            "isHomeTeam": true,
+            "id": 4621639,
+            "matchDate": {
+                "utcTime": "2024-11-05T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-dinamo-zagreb/25w4mj#4621639",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 4,
+            "minutesPlayed": 19,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.0",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 8456,
+            "opponentTeamName": "Manchester City",
+            "isHomeTeam": true,
+            "id": 4621499,
+            "matchDate": {
+                "utcTime": "2024-10-01T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-manchester-city/1qdrm2#4621499",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 4,
+            "minutesPlayed": 5,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 9925,
+            "opponentTeamName": "Celtic",
+            "isHomeTeam": false,
+            "id": 4621650,
+            "matchDate": {
+                "utcTime": "2024-09-18T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-celtic/23op3d#4621650",
+            "leagueId": 42,
+            "leagueName": "Champions League",
+            "stage": null,
+            "homeScore": 5,
+            "awayScore": 1,
+            "minutesPlayed": 14,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.3",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 8113,
+            "opponentTeamName": "FC Midtjylland",
+            "isHomeTeam": true,
+            "id": 4590794,
+            "matchDate": {
+                "utcTime": "2024-08-28T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-fc-midtjylland/1ngln7#4590794",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": "final",
+            "homeScore": 3,
+            "awayScore": 2,
+            "minutesPlayed": 11,
+            "goals": 0,
+            "assists": 1,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.4",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 8113,
+            "opponentTeamName": "FC Midtjylland",
+            "isHomeTeam": false,
+            "id": 4590793,
+            "matchDate": {
+                "utcTime": "2024-08-21T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-fc-midtjylland/1ngln7#4590793",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": "final",
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 18,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.5",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 8621,
+            "opponentTeamName": "APOEL Nicosia",
+            "isHomeTeam": false,
+            "id": 4570202,
+            "matchDate": {
+                "utcTime": "2024-08-13T19:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-apoel-nicosia/1rt96t#4570202",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 0,
+            "minutesPlayed": 85,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 8621,
+            "opponentTeamName": "APOEL Nicosia",
+            "isHomeTeam": true,
+            "id": 4570192,
+            "matchDate": {
+                "utcTime": "2024-08-07T20:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-apoel-nicosia/1rt96t#4570192",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 0,
+            "minutesPlayed": 11,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.1",
+                "bgcolor": "rgba(30, 136, 229, 1.0)"
+            },
+            "playerOfTheMatch": true,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 4622,
+            "opponentTeamName": "NK Celje",
+            "isHomeTeam": true,
+            "id": 4509534,
+            "matchDate": {
+                "utcTime": "2024-07-30T20:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/nk-celje-vs-slovan-bratislava/xppi4#4509534",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": null,
+            "homeScore": 5,
+            "awayScore": 0,
+            "minutesPlayed": 74,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.5",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 4622,
+            "opponentTeamName": "NK Celje",
+            "isHomeTeam": false,
+            "id": 4509533,
+            "matchDate": {
+                "utcTime": "2024-07-24T20:15:00.000Z"
+            },
+            "matchPageUrl": "/matches/nk-celje-vs-slovan-bratislava/xppi4#4509533",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 80,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 1,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 866489,
+            "opponentTeamName": "FK Struga",
+            "isHomeTeam": false,
+            "id": 4507161,
+            "matchDate": {
+                "utcTime": "2024-07-17T17:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-fk-struga/4uv137xb#4507161",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 2,
+            "minutesPlayed": 57,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 6019,
+            "teamName": "Slovan Bratislava",
+            "opponentTeamId": 866489,
+            "opponentTeamName": "FK Struga",
+            "isHomeTeam": true,
+            "id": 4507160,
+            "matchDate": {
+                "utcTime": "2024-07-10T19:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/slovan-bratislava-vs-fk-struga/4uv137xb#4507160",
+            "leagueId": 10611,
+            "leagueName": "Champions League Qualification",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 2,
+            "minutesPlayed": 81,
+            "goals": 1,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "7.6",
+                "bgcolor": "rgba(51, 199, 113, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 10164,
+            "teamName": "Sydney FC",
+            "opponentTeamId": 8164,
+            "opponentTeamName": "Central Coast Mariners",
+            "isHomeTeam": false,
+            "id": 4473999,
+            "matchDate": {
+                "utcTime": "2024-05-18T11:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/central-coast-mariners-vs-sydney-fc/2s0afk#4473999",
+            "leagueId": 113,
+            "leagueName": "A-League Men Playoff",
+            "stage": "1/2",
+            "homeScore": 0,
+            "awayScore": 0,
+            "minutesPlayed": 90,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.6",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 10164,
+            "teamName": "Sydney FC",
+            "opponentTeamId": 8164,
+            "opponentTeamName": "Central Coast Mariners",
+            "isHomeTeam": true,
+            "id": 4473998,
+            "matchDate": {
+                "utcTime": "2024-05-10T11:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/central-coast-mariners-vs-sydney-fc/2s0afk#4473998",
+            "leagueId": 113,
+            "leagueName": "A-League Men Playoff",
+            "stage": "1/2",
+            "homeScore": 1,
+            "awayScore": 2,
+            "minutesPlayed": 84,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "5.9",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 10164,
+            "teamName": "Sydney FC",
+            "opponentTeamId": 1209973,
+            "opponentTeamName": "Macarthur FC",
+            "isHomeTeam": true,
+            "id": 4470778,
+            "matchDate": {
+                "utcTime": "2024-05-04T11:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/sydney-fc-vs-macarthur-fc/9hyi2cpe#4470778",
+            "leagueId": 113,
+            "leagueName": "A-League Men Playoff",
+            "stage": "1/4",
+            "homeScore": 4,
+            "awayScore": 0,
+            "minutesPlayed": 85,
+            "goals": 2,
+            "assists": 1,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "9.3",
+                "bgcolor": "rgba(30, 136, 229, 1.0)"
+            },
+            "playerOfTheMatch": true,
+            "onBench": false
+        },
+        {
+            "teamId": 10164,
+            "teamName": "Sydney FC",
+            "opponentTeamId": 7961,
+            "opponentTeamName": "Perth Glory",
+            "isHomeTeam": true,
+            "id": 4307899,
+            "matchDate": {
+                "utcTime": "2024-04-28T07:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/perth-glory-vs-sydney-fc/2psz9w#4307899",
+            "leagueId": 113,
+            "leagueName": "A-League Men",
+            "stage": null,
+            "homeScore": 7,
+            "awayScore": 1,
+            "minutesPlayed": 90,
+            "goals": 2,
+            "assists": 1,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "9.3",
+                "bgcolor": "rgba(30, 136, 229, 1.0)"
+            },
+            "playerOfTheMatch": true,
+            "onBench": false
+        },
+        {
+            "teamId": 10164,
+            "teamName": "Sydney FC",
+            "opponentTeamId": 1209973,
+            "opponentTeamName": "Macarthur FC",
+            "isHomeTeam": false,
+            "id": 4307894,
+            "matchDate": {
+                "utcTime": "2024-04-20T11:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/sydney-fc-vs-macarthur-fc/9hyi2cpe#4307894",
+            "leagueId": 113,
+            "leagueName": "A-League Men",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 0,
+            "minutesPlayed": 45,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "6.3",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        }
+    ],
+    "careerHistory": {
+        "showFootnote": false,
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "participantId": 212875,
+                        "teamId": 6019,
+                        "team": "Slovan Bratislava",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2024-06-15T00:00:00",
+                        "endDate": null,
+                        "active": true,
+                        "role": null,
+                        "appearances": "39",
+                        "goals": "14",
+                        "assists": "2",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 10164,
+                        "team": "Sydney FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2022-08-08T00:00:00",
+                        "endDate": "2024-06-15T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "60",
+                        "goals": "23",
+                        "assists": "6",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8222,
+                        "team": "Ferencvaros",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2020-09-18T00:00:00",
+                        "endDate": "2022-07-01T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "49",
+                        "goals": "6",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8622,
+                        "team": "Konyaspor",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2020-01-30T00:00:00",
+                        "endDate": "2020-03-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8698,
+                        "team": "Zenit St. Petersburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "back from loan",
+                            "localizationKey": "transfer_type_back_from_loan"
+                        },
+                        "startDate": "2018-07-01T00:00:00",
+                        "endDate": "2020-01-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "45",
+                        "goals": "8",
+                        "assists": "2",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8619,
+                        "team": "PAOK Thessaloniki FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        },
+                        "startDate": "2017-07-11T00:00:00",
+                        "endDate": "2018-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "37",
+                        "goals": "5",
+                        "assists": "4",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8698,
+                        "team": "Zenit St. Petersburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2016-07-22T00:00:00",
+                        "endDate": "2017-07-06T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "27",
+                        "goals": "6",
+                        "assists": "4",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8619,
+                        "team": "PAOK Thessaloniki FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2014-07-01T00:00:00",
+                        "endDate": "2016-07-19T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "80",
+                        "goals": "28",
+                        "assists": "7",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2010-06-01T00:00:00",
+                        "endDate": "2014-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "81",
+                        "goals": "8",
+                        "assists": "5",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2011-11-01T00:00:00",
+                        "endDate": "2013-07-09T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "9",
+                        "goals": "5",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    }
+                ],
+                "seasonEntries": [
+                    {
+                        "seasonName": "2024/2025",
+                        "appearances": "39",
+                        "goals": "14",
+                        "assists": "2",
+                        "rating": {
+                            "num": "6.0",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 176,
+                                "leagueName": "1. liga",
+                                "seasonName": "2024/2025",
+                                "tournamentId": 23730,
+                                "goals": "9",
+                                "assists": "1",
+                                "appearances": "21",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 42,
+                                "leagueName": "Champions League",
+                                "seasonName": "2024/2025",
+                                "tournamentId": 24110,
+                                "goals": "3",
+                                "assists": "1",
+                                "appearances": "15",
+                                "rating": {
+                                    "num": "6.0",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2024/2025",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "undefined",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 6019,
+                        "team": "Slovan Bratislava",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2023/2024",
+                        "appearances": "32",
+                        "goals": "12",
+                        "assists": "4",
+                        "rating": {
+                            "num": "7.0",
+                            "bgcolor": "rgba(51, 199, 113, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 113,
+                                "leagueName": "A-League",
+                                "seasonName": "2023/2024",
+                                "tournamentId": 21861,
+                                "goals": "10",
+                                "assists": "2",
+                                "appearances": "27",
+                                "rating": {
+                                    "num": "7.0",
+                                    "bgcolor": "rgba(51, 199, 113, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9471,
+                                "leagueName": "Australia Cup",
+                                "seasonName": "2023",
+                                "tournamentId": 20899,
+                                "goals": "2",
+                                "assists": "2",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 10164,
+                        "team": "Sydney FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2022/2023",
+                        "appearances": "28",
+                        "goals": "11",
+                        "assists": "2",
+                        "rating": {
+                            "num": "7.1",
+                            "bgcolor": "rgba(51, 199, 113, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 113,
+                                "leagueName": "A-League",
+                                "seasonName": "2022/2023",
+                                "tournamentId": 18067,
+                                "goals": "10",
+                                "assists": "2",
+                                "appearances": "26",
+                                "rating": {
+                                    "num": "7.1",
+                                    "bgcolor": "rgba(51, 199, 113, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9471,
+                                "leagueName": "Australia Cup",
+                                "seasonName": "2022",
+                                "tournamentId": 17611,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Sydney Super Cup",
+                                "seasonName": "2022",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 10164,
+                        "team": "Sydney FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2021/2022",
+                        "appearances": "24",
+                        "goals": "5",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.1",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 42,
+                                "leagueName": "Champions League",
+                                "seasonName": "2021/2022",
+                                "tournamentId": 16407,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "6",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 73,
+                                "leagueName": "Europa League",
+                                "seasonName": "2021/2022",
+                                "tournamentId": 16640,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "6.1",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "NB I",
+                                "seasonName": "2021/2022",
+                                "tournamentId": -1,
+                                "goals": "3",
+                                "assists": "undefined",
+                                "appearances": "13",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Magyar Kupa",
+                                "seasonName": "2021/2022",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8222,
+                        "team": "Ferencvaros",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2020/2021",
+                        "appearances": "25",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.4",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 42,
+                                "leagueName": "Champions League",
+                                "seasonName": "2020/2021",
+                                "tournamentId": 15237,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "6.4",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "NB I",
+                                "seasonName": "2020/2021",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "19",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Magyar Kupa",
+                                "seasonName": "2020/2021",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8222,
+                        "team": "Ferencvaros",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2019/2020",
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.4",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 71,
+                                "leagueName": "Super Lig",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 14259,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "6.4",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 8622,
+                        "team": "Konyaspor",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2019/2020",
+                        "appearances": "10",
+                        "goals": "2",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.5",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 13978,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "6.5",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 193,
+                                "leagueName": "Russian Cup",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 14345,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 195,
+                                "leagueName": "Super Cup",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 15386,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 42,
+                                "leagueName": "Champions League",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 14006,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8698,
+                        "team": "Zenit St. Petersburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "back from loan",
+                            "localizationKey": "transfer_type_back_from_loan"
+                        }
+                    },
+                    {
+                        "seasonName": "2018/2019",
+                        "appearances": "35",
+                        "goals": "6",
+                        "assists": "2",
+                        "rating": {
+                            "num": "6.5",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12821,
+                                "goals": "1",
+                                "assists": "1",
+                                "appearances": "21",
+                                "rating": {
+                                    "num": "6.5",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 193,
+                                "leagueName": "Russian Cup",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 13083,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 73,
+                                "leagueName": "Europa League",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12765,
+                                "goals": "4",
+                                "assists": "1",
+                                "appearances": "13",
+                                "rating": {
+                                    "num": "6.5",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 8698,
+                        "team": "Zenit St. Petersburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "back from loan",
+                            "localizationKey": "transfer_type_back_from_loan"
+                        }
+                    },
+                    {
+                        "seasonName": "2017/2018",
+                        "appearances": "37",
+                        "goals": "5",
+                        "assists": "4",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 135,
+                                "leagueName": "Super League 1",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 11587,
+                                "goals": "3",
+                                "assists": "4",
+                                "appearances": "26",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 73,
+                                "leagueName": "Europa League",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 11543,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2017/2018",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "7",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8619,
+                        "team": "PAOK Thessaloniki FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        }
+                    },
+                    {
+                        "seasonName": "2016/2017",
+                        "appearances": "27",
+                        "goals": "6",
+                        "assists": "4",
+                        "rating": {
+                            "num": "6.9",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 63,
+                                "leagueName": "Premier League",
+                                "seasonName": "2016/2017",
+                                "tournamentId": 10445,
+                                "goals": "4",
+                                "assists": "2",
+                                "appearances": "17",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 193,
+                                "leagueName": "Russian Cup",
+                                "seasonName": "2016/2017",
+                                "tournamentId": 10752,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 73,
+                                "leagueName": "Europa League",
+                                "seasonName": "2016/2017",
+                                "tournamentId": 10327,
+                                "goals": "1",
+                                "assists": "2",
+                                "appearances": "8",
+                                "rating": {
+                                    "num": "6.9",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 8698,
+                        "team": "Zenit St. Petersburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2015/2016",
+                        "appearances": "45",
+                        "goals": "20",
+                        "assists": "2",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 135,
+                                "leagueName": "Super League 1",
+                                "seasonName": "2015/2016",
+                                "tournamentId": 9673,
+                                "goals": "7",
+                                "assists": "0",
+                                "appearances": "28",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 73,
+                                "leagueName": "Europa League",
+                                "seasonName": "2015/2016",
+                                "tournamentId": 9529,
+                                "goals": "9",
+                                "assists": "2",
+                                "appearances": "12",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2015/2016",
+                                "tournamentId": -1,
+                                "goals": "4",
+                                "assists": "undefined",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8619,
+                        "team": "PAOK Thessaloniki FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2014/2015",
+                        "appearances": "35",
+                        "goals": "8",
+                        "assists": "5",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 135,
+                                "leagueName": "Super League 1",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8839,
+                                "goals": "7",
+                                "assists": "5",
+                                "appearances": "30",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 73,
+                                "leagueName": "Europa League",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8629,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Cup",
+                                "seasonName": "2014/2015",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8619,
+                        "team": "PAOK Thessaloniki FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2013/2014",
+                        "appearances": "20",
+                        "goals": "0",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 54,
+                                "leagueName": "Bundesliga",
+                                "seasonName": "2013/2014",
+                                "tournamentId": 7771,
+                                "goals": "0",
+                                "assists": "1",
+                                "appearances": "19",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2013/2014",
+                                "tournamentId": 7743,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "20",
+                        "goals": "2",
+                        "assists": "2",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 54,
+                                "leagueName": "Bundesliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": 6991,
+                                "goals": "1",
+                                "assists": "2",
+                                "appearances": "19",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2012/2013",
+                                "tournamentId": 6976,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011/2012",
+                        "appearances": "19",
+                        "goals": "3",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 54,
+                                "leagueName": "Bundesliga",
+                                "seasonName": "2011/2012",
+                                "tournamentId": 6137,
+                                "goals": "2",
+                                "assists": "1",
+                                "appearances": "17",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2011/2012",
+                                "tournamentId": 6104,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2010/2011",
+                        "appearances": "22",
+                        "goals": "3",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 54,
+                                "leagueName": "Bundesliga",
+                                "seasonName": "2010/2011",
+                                "tournamentId": 5345,
+                                "goals": "3",
+                                "assists": "1",
+                                "appearances": "22",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8165,
+                        "team": "1. FC Nürnberg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "6",
+                        "goals": "4",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": -1,
+                                "goals": "4",
+                                "assists": "undefined",
+                                "appearances": "6",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011/2012",
+                        "appearances": "3",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2011/2012",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 94943,
+                        "team": "Nürnberg II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    }
+                ]
+            },
+            "national team": {
+                "teamEntries": [
+                    {
+                        "participantId": 212875,
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2012-01-01T00:00:00",
+                        "endDate": "2024-05-27T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "81",
+                        "goals": "16",
+                        "assists": "7",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212875,
+                        "teamId": 5847,
+                        "team": "Slovakia U21",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2009-06-01T00:00:00",
+                        "endDate": "2013-08-31T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "13",
+                        "goals": "2",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    }
+                ],
+                "seasonEntries": [
+                    {
+                        "seasonName": "2024",
+                        "appearances": "8",
+                        "goals": "2",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2024",
+                                "tournamentId": 22275,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "UEFA European Championship Quali",
+                                "seasonName": "2024",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "0",
+                                "appearances": "7",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2022",
+                        "appearances": "6",
+                        "goals": "1",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "UEFA World Cup Qualifiers",
+                                "seasonName": "2022",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "1",
+                                "appearances": "6",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2021",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.6",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2021",
+                                "tournamentId": 15943,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "6.6",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2020",
+                        "appearances": "15",
+                        "goals": "2",
+                        "assists": "1",
+                        "rating": {
+                            "num": "6.5",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 50,
+                                "leagueName": "EURO",
+                                "seasonName": "2020",
+                                "tournamentId": 12715,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "6.5",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "UEFA European Championship Quali",
+                                "seasonName": "2020",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "1",
+                                "appearances": "9",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9806,
+                                "leagueName": "UEFA Nations League A",
+                                "seasonName": "2020/2021",
+                                "tournamentId": 15023,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2018",
+                        "appearances": "19",
+                        "goals": "4",
+                        "assists": "2",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2018",
+                                "tournamentId": 11352,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "UEFA World Cup Qualifiers",
+                                "seasonName": "2018",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "1",
+                                "appearances": "9",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "King's Cup",
+                                "seasonName": "2018",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "1",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9806,
+                                "leagueName": "UEFA Nations League A",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12469,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2017",
+                        "appearances": "2",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2017",
+                                "tournamentId": 10882,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2016",
+                        "appearances": "15",
+                        "goals": "2",
+                        "assists": "2",
+                        "rating": {
+                            "num": "7.3",
+                            "bgcolor": "rgba(51, 199, 113, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 50,
+                                "leagueName": "EURO",
+                                "seasonName": "2016",
+                                "tournamentId": 8479,
+                                "goals": "0",
+                                "assists": "1",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "7.3",
+                                    "bgcolor": "rgba(51, 199, 113, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2016",
+                                "tournamentId": 10041,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "UEFA European Championship Quali",
+                                "seasonName": "2016",
+                                "tournamentId": -1,
+                                "goals": "2",
+                                "assists": "1",
+                                "appearances": "9",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2015",
+                        "appearances": "3",
+                        "goals": "3",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2015",
+                                "tournamentId": 9099,
+                                "goals": "3",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2014",
+                        "appearances": "8",
+                        "goals": "1",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2014",
+                                "tournamentId": 8170,
+                                "goals": "1",
+                                "assists": "1",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "UEFA World Cup Qualifiers",
+                                "seasonName": "2014",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2013",
+                        "appearances": "4",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": true,
+                                "leagueId": 114,
+                                "leagueName": "Friendlies",
+                                "seasonName": "2013",
+                                "tournamentId": 7374,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8497,
+                        "team": "Slovakia",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2013",
+                        "appearances": "9",
+                        "goals": "2",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 288,
+                                "leagueName": "EURO U21",
+                                "seasonName": "2013",
+                                "tournamentId": 7388,
+                                "goals": "2",
+                                "assists": "0",
+                                "appearances": "9",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 5847,
+                        "team": "Slovakia U21",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011",
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 288,
+                                "leagueName": "EURO U21",
+                                "seasonName": "2011",
+                                "tournamentId": 5773,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 5847,
+                        "team": "Slovakia U21",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    }
+                ]
+            }
+        },
+        "fullCareer": true
+    },
+    "traits": {
+        "key": "stats_comparison_att_mid_wingers",
+        "title": "Stats compared to other attacking midfielders/wingers",
+        "items": [
+            {
+                "key": "chances_created",
+                "title": "Chances created",
+                "value": 0.83
+            },
+            {
+                "key": "aerials_won",
+                "title": "Aerial duels",
+                "value": 0.05
+            },
+            {
+                "key": "defensive_actions",
+                "title": "Defensive actions",
+                "value": 0.05
+            },
+            {
+                "key": "goals",
+                "title": "Goals",
+                "value": 0.94
+            },
+            {
+                "key": "shot_attempts",
+                "title": "Shot attempts",
+                "value": 0.8
+            },
+            {
+                "key": "touches",
+                "title": "Touches",
+                "value": 0.42
+            }
+        ]
+    },
+    "meta": {
+        "seopath": "robert-mak",
+        "pageurl": "/players/212875/robert-mak",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Robert Mak?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Robert Mak is 34 years old. Born on Fri Mar 08 1991."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Robert Mak?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Robert Mak is 179 cm tall. Or 5 ft 10.5 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Robert Mak born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Robert Mak was born Fri Mar 08 1991 and is now 34 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Which is Robert Mak's preferred foot?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Robert Mak's preferred foot is right."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much is Robert Mak's transfer value?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Robert Mak's transfer value is estimated to be around €600K."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Robert Mak from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Robert Mak is from Slovakia."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Robert Mak",
+            "birthDate": "1991-03-08T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212875/robert-mak",
+            "nationality": {
+                "@type": "Country",
+                "name": "Slovakia"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "Slovan Bratislava"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "179"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "78"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "1. Liga 2024/2025",
+                    "item": "https://www.fotmob.com/leagues/176/overview/1-liga-20242025"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Slovan Bratislava",
+                    "item": "https://www.fotmob.com/teams/6019/overview/slovan-bratislava"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Robert Mak",
+                    "item": "https://www.fotmob.com/leagues/212875/overview/robert-mak"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2024/2025",
+            "tournaments": [
+                {
+                    "name": "1. Liga",
+                    "tournamentId": 176,
+                    "entryId": "0-0"
+                },
+                {
+                    "name": "Champions League",
+                    "tournamentId": 42,
+                    "entryId": "0-1"
+                },
+                {
+                    "name": "Champions League Qualification qualification",
+                    "tournamentId": 10611,
+                    "entryId": "0-2"
+                }
+            ]
+        },
+        {
+            "seasonName": "2023/2024",
+            "tournaments": [
+                {
+                    "name": "A-League Men",
+                    "tournamentId": 113,
+                    "entryId": "1-0"
+                },
+                {
+                    "name": "EURO Qualification qualification",
+                    "tournamentId": 10607,
+                    "entryId": "1-1"
+                }
+            ]
+        },
+        {
+            "seasonName": "2022/2023",
+            "tournaments": [
+                {
+                    "name": "A-League Men",
+                    "tournamentId": 113,
+                    "entryId": "2-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2021/2022",
+            "tournaments": [
+                {
+                    "name": "NB I",
+                    "tournamentId": 212,
+                    "entryId": "3-0"
+                },
+                {
+                    "name": "Europa League",
+                    "tournamentId": 73,
+                    "entryId": "3-1"
+                },
+                {
+                    "name": "World Cup UEFA qualification",
+                    "tournamentId": 10195,
+                    "entryId": "3-2"
+                },
+                {
+                    "name": "Champions League Qualification qualification",
+                    "tournamentId": 10611,
+                    "entryId": "3-3"
+                }
+            ]
+        },
+        {
+            "seasonName": "2020/2021",
+            "tournaments": [
+                {
+                    "name": "NB I",
+                    "tournamentId": 212,
+                    "entryId": "4-0"
+                },
+                {
+                    "name": "Champions League",
+                    "tournamentId": 42,
+                    "entryId": "4-1"
+                },
+                {
+                    "name": "UEFA Nations League B",
+                    "tournamentId": 9807,
+                    "entryId": "4-2"
+                },
+                {
+                    "name": "EURO",
+                    "tournamentId": 50,
+                    "entryId": "4-3"
+                }
+            ]
+        },
+        {
+            "seasonName": "2019/2020",
+            "tournaments": [
+                {
+                    "name": "Premier League",
+                    "tournamentId": 63,
+                    "entryId": "5-0"
+                },
+                {
+                    "name": "Super Lig",
+                    "tournamentId": 71,
+                    "entryId": "5-1"
+                },
+                {
+                    "name": "Champions League",
+                    "tournamentId": 42,
+                    "entryId": "5-2"
+                },
+                {
+                    "name": "EURO Qualification qualification",
+                    "tournamentId": 10607,
+                    "entryId": "5-3"
+                }
+            ]
+        },
+        {
+            "seasonName": "2018/2019",
+            "tournaments": [
+                {
+                    "name": "Premier League",
+                    "tournamentId": 63,
+                    "entryId": "6-0"
+                },
+                {
+                    "name": "Europa League",
+                    "tournamentId": 73,
+                    "entryId": "6-1"
+                },
+                {
+                    "name": "UEFA Nations League B",
+                    "tournamentId": 9807,
+                    "entryId": "6-2"
+                },
+                {
+                    "name": "EURO Qualification playoff",
+                    "tournamentId": 10607,
+                    "entryId": "6-3"
+                }
+            ]
+        },
+        {
+            "seasonName": "2017/2018",
+            "tournaments": [
+                {
+                    "name": "Super League",
+                    "tournamentId": 135,
+                    "entryId": "7-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2016/2017",
+            "tournaments": [
+                {
+                    "name": "Premier League",
+                    "tournamentId": 63,
+                    "entryId": "8-0"
+                },
+                {
+                    "name": "Europa League",
+                    "tournamentId": 73,
+                    "entryId": "8-1"
+                },
+                {
+                    "name": "EURO",
+                    "tournamentId": 50,
+                    "entryId": "8-2"
+                },
+                {
+                    "name": "World Cup UEFA qualification",
+                    "tournamentId": 10195,
+                    "entryId": "8-3"
+                }
+            ]
+        },
+        {
+            "seasonName": "2015/2016",
+            "tournaments": [
+                {
+                    "name": "Super League",
+                    "tournamentId": 135,
+                    "entryId": "9-0"
+                },
+                {
+                    "name": "Europa League",
+                    "tournamentId": 73,
+                    "entryId": "9-1"
+                }
+            ]
+        },
+        {
+            "seasonName": "2014/2015",
+            "tournaments": [
+                {
+                    "name": "Europa League",
+                    "tournamentId": 73,
+                    "entryId": "10-0"
+                },
+                {
+                    "name": "EURO Qualification qualification",
+                    "tournamentId": 10607,
+                    "entryId": "10-1"
+                }
+            ]
+        },
+        {
+            "seasonName": "2013/2014",
+            "tournaments": [
+                {
+                    "name": "Bundesliga",
+                    "tournamentId": 54,
+                    "entryId": "11-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2011/2012",
+            "tournaments": [
+                {
+                    "name": "Bundesliga",
+                    "tournamentId": 54,
+                    "entryId": "12-0"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": {
+        "sectionOrder": [
+            "top-stat-card"
+        ],
+        "topStatCard": {
+            "display": "stats-group",
+            "id": "top-stat-card",
+            "items": [
+                {
+                    "localizedTitleId": "goals",
+                    "per90": 0.6328125,
+                    "percentileRank": 100,
+                    "percentileRankPer90": 100,
+                    "statFormat": "number",
+                    "statValue": "9",
+                    "title": "Goals"
+                },
+                {
+                    "localizedTitleId": "assists",
+                    "per90": 0.0703125,
+                    "percentileRank": 100,
+                    "percentileRankPer90": 100,
+                    "statFormat": "number",
+                    "statValue": "1",
+                    "title": "Assists"
+                },
+                {
+                    "localizedTitleId": "minutes_played",
+                    "per90": 90,
+                    "percentileRank": 100,
+                    "percentileRankPer90": 100,
+                    "statFormat": "number",
+                    "statValue": "1280",
+                    "title": "Minutes"
+                },
+                {
+                    "localizedTitleId": "yellow_cards",
+                    "per90": 0.0703125,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 0,
+                    "statFormat": "number",
+                    "statValue": "1",
+                    "title": "Yellow cards"
+                },
+                {
+                    "localizedTitleId": "red_cards",
+                    "per90": 0,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 0,
+                    "statFormat": "number",
+                    "statValue": "0",
+                    "title": "Red cards"
+                }
+            ],
+            "type": "stat-values"
+        },
+        "shotmap": null,
+        "keeperShotmap": null
+    },
+    "status": "active"
+}

@@ -1,0 +1,2306 @@
+{
+    "id": 212886,
+    "name": "Vitus Eicher",
+    "birthDate": {
+        "utcTime": "1990-11-05T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 94937,
+        "teamName": "FC Heidenheim",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#E20613",
+            "colorAlternate": "#E20613",
+            "colorAway": "#003B79",
+            "colorAwayAlternate": "#003B79"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "Keeper",
+            "key": "keeper_long"
+        },
+        "positions": [
+            {
+                "strPos": {
+                    "label": "Keeper",
+                    "key": "keeper_long"
+                },
+                "strPosShort": {
+                    "label": "GK",
+                    "key": "keeper"
+                },
+                "occurences": 1,
+                "position": "11",
+                "isMainPosition": true,
+                "pitchPositionData": {
+                    "right": 0.5,
+                    "top": 0.9
+                }
+            }
+        ]
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 190,
+                "key": null,
+                "fallback": "190 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 22,
+                "options": {},
+                "key": null,
+                "fallback": 22
+            },
+            "title": "Shirt",
+            "translationKey": "shirt"
+        },
+        {
+            "value": {
+                "numberValue": 34,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "34"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": "left",
+                "fallback": "Left"
+            },
+            "title": "Preferred foot",
+            "translationKey": "preferred_foot"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        },
+        {
+            "value": {
+                "numberValue": 260000,
+                "key": null,
+                "fallback": "€260K"
+            },
+            "title": "Market value",
+            "translationKey": "transfer_value"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": {
+        "playerTrophies": [
+            {
+                "ccode": "GER",
+                "teamId": 94937,
+                "teamName": "FC Heidenheim",
+                "tournaments": [
+                    {
+                        "ccode": "GER",
+                        "leagueId": 146,
+                        "leagueName": "2. Bundesliga",
+                        "seasonsWon": [
+                            "2022/2023"
+                        ],
+                        "seasonsRunnerUp": []
+                    }
+                ]
+            }
+        ],
+        "coachTrophies": []
+    },
+    "recentMatches": [
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8721,
+            "opponentTeamName": "Wolfsburg",
+            "isHomeTeam": false,
+            "id": 4534780,
+            "matchDate": {
+                "utcTime": "2025-03-29T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/wolfsburg-vs-fc-heidenheim/2guq9fk#4534780",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8150,
+            "opponentTeamName": "Holstein Kiel",
+            "isHomeTeam": true,
+            "id": 4534767,
+            "matchDate": {
+                "utcTime": "2025-03-16T17:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/holstein-kiel-vs-fc-heidenheim/2fvl4ox#4534767",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 178475,
+            "opponentTeamName": "RB Leipzig",
+            "isHomeTeam": false,
+            "id": 4534739,
+            "matchDate": {
+                "utcTime": "2025-02-23T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/fc-heidenheim-vs-rb-leipzig/h65h3hf#4534739",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8391,
+            "opponentTeamName": "FC København",
+            "isHomeTeam": true,
+            "id": 4695842,
+            "matchDate": {
+                "utcTime": "2025-02-20T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/fc-kobenhavn-vs-fc-heidenheim/2gae8x5#4695842",
+            "leagueId": 10216,
+            "leagueName": "Conference League Final Stage",
+            "stage": "1/16",
+            "homeScore": 1,
+            "awayScore": 3,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9905,
+            "opponentTeamName": "Mainz 05",
+            "isHomeTeam": true,
+            "id": 4534732,
+            "matchDate": {
+                "utcTime": "2025-02-16T19:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/mainz-05-vs-fc-heidenheim/2iw610o#4534732",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8391,
+            "opponentTeamName": "FC København",
+            "isHomeTeam": false,
+            "id": 4695834,
+            "matchDate": {
+                "utcTime": "2025-02-13T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/fc-kobenhavn-vs-fc-heidenheim/2gae8x5#4695834",
+            "leagueId": 10216,
+            "leagueName": "Conference League Final Stage",
+            "stage": "1/16",
+            "homeScore": 1,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8406,
+            "opponentTeamName": "Augsburg",
+            "isHomeTeam": false,
+            "id": 4534706,
+            "matchDate": {
+                "utcTime": "2025-01-25T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/augsburg-vs-fc-heidenheim/2gbbgxt#4534706",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8152,
+            "opponentTeamName": "St. Pauli",
+            "isHomeTeam": true,
+            "id": 4534697,
+            "matchDate": {
+                "utcTime": "2025-01-18T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/st-pauli-vs-fc-heidenheim/2fvpjs2#4534697",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8697,
+            "opponentTeamName": "Werder Bremen",
+            "isHomeTeam": false,
+            "id": 4534688,
+            "matchDate": {
+                "utcTime": "2025-01-15T20:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/werder-bremen-vs-fc-heidenheim/2gt8y1w#4534688",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 3,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 10190,
+            "opponentTeamName": "St. Gallen",
+            "isHomeTeam": true,
+            "id": 4622219,
+            "matchDate": {
+                "utcTime": "2024-12-19T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/st-gallen-vs-fc-heidenheim/2je15lx#4622219",
+            "leagueId": 10216,
+            "leagueName": "Conference League",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 10269,
+            "opponentTeamName": "VfB Stuttgart",
+            "isHomeTeam": true,
+            "id": 4534659,
+            "matchDate": {
+                "utcTime": "2024-12-15T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/vfb-stuttgart-vs-fc-heidenheim/2jiz892#4534659",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 3,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 1933,
+            "opponentTeamName": "Başakşehir",
+            "isHomeTeam": false,
+            "id": 4622200,
+            "matchDate": {
+                "utcTime": "2024-12-12T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/basaksehir-vs-fc-heidenheim/25liqn2#4622200",
+            "leagueId": 10216,
+            "leagueName": "Conference League",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 1,
+            "minutesPlayed": 90,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 1,
+            "redCards": 0,
+            "ratingProps": {
+                "num": "5.1",
+                "bgcolor": "rgba(240, 128, 34, 1.0)"
+            },
+            "playerOfTheMatch": false,
+            "onBench": false
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9823,
+            "opponentTeamName": "Bayern München",
+            "isHomeTeam": false,
+            "id": 4534650,
+            "matchDate": {
+                "utcTime": "2024-12-07T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/bayern-munchen-vs-fc-heidenheim/2ir1tzv#4534650",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8455,
+            "opponentTeamName": "Chelsea",
+            "isHomeTeam": true,
+            "id": 4622217,
+            "matchDate": {
+                "utcTime": "2024-11-28T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/chelsea-vs-fc-heidenheim/2gec155#4622217",
+            "leagueId": 10216,
+            "leagueName": "Conference League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8721,
+            "opponentTeamName": "Wolfsburg",
+            "isHomeTeam": true,
+            "id": 4534623,
+            "matchDate": {
+                "utcTime": "2024-11-10T19:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/wolfsburg-vs-fc-heidenheim/2guq9fk#4534623",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 3,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9860,
+            "opponentTeamName": "Hearts",
+            "isHomeTeam": false,
+            "id": 4622250,
+            "matchDate": {
+                "utcTime": "2024-11-07T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/hearts-vs-fc-heidenheim/2itcxef#4622250",
+            "leagueId": 10216,
+            "leagueName": "Conference League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8150,
+            "opponentTeamName": "Holstein Kiel",
+            "isHomeTeam": false,
+            "id": 4534620,
+            "matchDate": {
+                "utcTime": "2024-11-02T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/holstein-kiel-vs-fc-heidenheim/2fvl4ox#4534620",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 0,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 2137,
+            "opponentTeamName": "Pafos FC",
+            "isHomeTeam": false,
+            "id": 4622277,
+            "matchDate": {
+                "utcTime": "2024-10-24T21:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/pafos-fc-vs-fc-heidenheim/25xaqtw#4622277",
+            "leagueId": 10216,
+            "leagueName": "Conference League",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9788,
+            "opponentTeamName": "Borussia Mönchengladbach",
+            "isHomeTeam": false,
+            "id": 4534601,
+            "matchDate": {
+                "utcTime": "2024-10-19T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/borussia-monchengladbach-vs-fc-heidenheim/2iov99f#4534601",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 3,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 178475,
+            "opponentTeamName": "RB Leipzig",
+            "isHomeTeam": true,
+            "id": 4534588,
+            "matchDate": {
+                "utcTime": "2024-10-06T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/fc-heidenheim-vs-rb-leipzig/h65h3hf#4534588",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 7872,
+            "opponentTeamName": "Olimpija Ljubljana",
+            "isHomeTeam": true,
+            "id": 4622218,
+            "matchDate": {
+                "utcTime": "2024-10-03T18:45:00.000Z"
+            },
+            "matchPageUrl": "/matches/olimpija-ljubljana-vs-fc-heidenheim/2fejplq#4622218",
+            "leagueId": 10216,
+            "leagueName": "Conference League",
+            "stage": null,
+            "homeScore": 2,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9789,
+            "opponentTeamName": "Borussia Dortmund",
+            "isHomeTeam": false,
+            "id": 4534559,
+            "matchDate": {
+                "utcTime": "2024-09-13T20:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/borussia-dortmund-vs-fc-heidenheim/2ioxi2i#4534559",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8406,
+            "opponentTeamName": "Augsburg",
+            "isHomeTeam": true,
+            "id": 4534553,
+            "matchDate": {
+                "utcTime": "2024-09-01T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/augsburg-vs-fc-heidenheim/2gbbgxt#4534553",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 0,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8428,
+            "opponentTeamName": "Häcken",
+            "isHomeTeam": true,
+            "id": 4591275,
+            "matchDate": {
+                "utcTime": "2024-08-29T20:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/hacken-vs-fc-heidenheim/2gco7ew#4591275",
+            "leagueId": 10615,
+            "leagueName": "Conference League Qualification",
+            "stage": "final",
+            "homeScore": 3,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8428,
+            "opponentTeamName": "Häcken",
+            "isHomeTeam": false,
+            "id": 4591274,
+            "matchDate": {
+                "utcTime": "2024-08-22T19:00:00.000Z"
+            },
+            "matchPageUrl": "/matches/hacken-vs-fc-heidenheim/2gco7ew#4591274",
+            "leagueId": 10615,
+            "leagueName": "Conference League Qualification",
+            "stage": "final",
+            "homeScore": 1,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8722,
+            "opponentTeamName": "1. FC Köln",
+            "isHomeTeam": true,
+            "id": 4222388,
+            "matchDate": {
+                "utcTime": "2024-05-18T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/1-fc-koln-vs-fc-heidenheim/2gushez#4222388",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 4,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8358,
+            "opponentTeamName": "Freiburg",
+            "isHomeTeam": false,
+            "id": 4222373,
+            "matchDate": {
+                "utcTime": "2024-05-11T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/freiburg-vs-fc-heidenheim/2g8d6ah#4222373",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9905,
+            "opponentTeamName": "Mainz 05",
+            "isHomeTeam": true,
+            "id": 4222370,
+            "matchDate": {
+                "utcTime": "2024-05-05T19:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/mainz-05-vs-fc-heidenheim/2iw610o#4222370",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 8262,
+            "opponentTeamName": "Darmstadt",
+            "isHomeTeam": false,
+            "id": 4222361,
+            "matchDate": {
+                "utcTime": "2024-04-28T19:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/darmstadt-vs-fc-heidenheim/2g2gqbt#4222361",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 0,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 178475,
+            "opponentTeamName": "RB Leipzig",
+            "isHomeTeam": true,
+            "id": 4222182,
+            "matchDate": {
+                "utcTime": "2024-04-20T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/fc-heidenheim-vs-rb-leipzig/h65h3hf#4222182",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 2,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        },
+        {
+            "teamId": 94937,
+            "teamName": "FC Heidenheim",
+            "opponentTeamId": 9911,
+            "opponentTeamName": "Bochum",
+            "isHomeTeam": false,
+            "id": 4222170,
+            "matchDate": {
+                "utcTime": "2024-04-13T15:30:00.000Z"
+            },
+            "matchPageUrl": "/matches/bochum-vs-fc-heidenheim/2iwjif3#4222170",
+            "leagueId": 54,
+            "leagueName": "Bundesliga",
+            "stage": null,
+            "homeScore": 1,
+            "awayScore": 1,
+            "minutesPlayed": 0,
+            "goals": 0,
+            "assists": 0,
+            "yellowCards": 0,
+            "redCards": 0,
+            "ratingProps": {
+                "num": 0,
+                "bgcolor": "#989898"
+            },
+            "playerOfTheMatch": false,
+            "onBench": true
+        }
+    ],
+    "careerHistory": {
+        "showFootnote": false,
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "participantId": 212886,
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2017-01-17T00:00:00",
+                        "endDate": null,
+                        "active": true,
+                        "role": null,
+                        "appearances": "12",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212886,
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2010-07-01T00:00:00",
+                        "endDate": "2017-01-16T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "35",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212886,
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2009-08-16T00:00:00",
+                        "endDate": "2017-01-16T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "118",
+                        "goals": "1",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    }
+                ],
+                "seasonEntries": [
+                    {
+                        "seasonName": "2024/2025",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "5.1",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 10216,
+                                "leagueName": "Conference League",
+                                "seasonName": "2024/2025",
+                                "tournamentId": 24113,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "5.1",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2023/2024",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "5.2",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2023/2024",
+                                "tournamentId": 20948,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "5.2",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2022/2023",
+                        "appearances": "2",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.9",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2022/2023",
+                                "tournamentId": 17692,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "6.9",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2020/2021",
+                        "appearances": "2",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "3.6",
+                            "bgcolor": "rgba(229, 94, 91, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2020/2021",
+                                "tournamentId": 15482,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "3.6",
+                                    "bgcolor": "rgba(229, 94, 91, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2020/2021",
+                                "tournamentId": 15391,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2019/2020",
+                        "appearances": "2",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "5.9",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 14145,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "5.9",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 14035,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2018/2019",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.8",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12877,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "6.8",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2017/2018",
+                        "appearances": "3",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "5.9",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 11624,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "3",
+                                "rating": {
+                                    "num": "5.9",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 94937,
+                        "team": "FC Heidenheim",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2015/2016",
+                        "appearances": "19",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2015/2016",
+                                "tournamentId": 9557,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "19",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2014/2015",
+                        "appearances": "15",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8632,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "13",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 9734,
+                                "leagueName": "2. Bundesliga Qualification",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 12004,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "2",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011/2012",
+                        "appearances": "1",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2011/2012",
+                                "tournamentId": 6138,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2016/2017",
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2016/2017",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2014/2015",
+                        "appearances": "8",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2014/2015",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "8",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2013/2014",
+                        "appearances": "10",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2013/2014",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "10",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "32",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": -1,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "32",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011/2012",
+                        "appearances": "32",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2011/2012",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "32",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2010/2011",
+                        "appearances": "20",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2010/2011",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "20",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2009/2010",
+                        "appearances": "12",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2009/2010",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "12",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    }
+                ]
+            }
+        },
+        "fullCareer": true
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "vitus-eicher",
+        "pageurl": "/players/212886/vitus-eicher",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Vitus Eicher?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vitus Eicher is 34 years old. Born on Mon Nov 05 1990."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Vitus Eicher?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vitus Eicher is 190 cm tall. Or 6 ft 2.8 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Vitus Eicher born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vitus Eicher was born Mon Nov 05 1990 and is now 34 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Which is Vitus Eicher's preferred foot?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vitus Eicher's preferred foot is left."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much is Vitus Eicher's transfer value?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vitus Eicher's transfer value is estimated to be around €260K."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Vitus Eicher from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vitus Eicher is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Vitus Eicher",
+            "birthDate": "1990-11-05T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212886/vitus-eicher",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "FC Heidenheim"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "190"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "80"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "FC Heidenheim",
+                    "item": "https://www.fotmob.com/teams/94937/overview/fc-heidenheim"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Vitus Eicher",
+                    "item": "https://www.fotmob.com/leagues/212886/overview/vitus-eicher"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2024/2025",
+            "tournaments": [
+                {
+                    "name": "Conference League",
+                    "tournamentId": 10216,
+                    "entryId": "0-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2023/2024",
+            "tournaments": [
+                {
+                    "name": "DFB Pokal",
+                    "tournamentId": 209,
+                    "entryId": "1-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2022/2023",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "2-0"
+                },
+                {
+                    "name": "DFB Pokal",
+                    "tournamentId": 209,
+                    "entryId": "2-1"
+                }
+            ]
+        },
+        {
+            "seasonName": "2021/2022",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "3-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2020/2021",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "4-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2019/2020",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "5-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2018/2019",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "6-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2017/2018",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "7-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2015/2016",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "8-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2014/2015",
+            "tournaments": [
+                {
+                    "name": "2. Bundesliga",
+                    "tournamentId": 146,
+                    "entryId": "9-0"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": {
+        "sectionOrder": [
+            "top-stat-card",
+            "shotmap",
+            "stats-section"
+        ],
+        "keeperShotmap": [
+            {
+                "id": 2758155483,
+                "playerName": "Deniz Türüc",
+                "eventType": "Goal",
+                "shotType": "RightFoot",
+                "situation": "FastBreak",
+                "teamId": 1933,
+                "playerId": 352023,
+                "x": 102.155172414,
+                "y": 28.286904761,
+                "min": 6,
+                "period": "FirstHalf",
+                "isOwnGoal": false,
+                "isBlocked": false,
+                "isOnTarget": true,
+                "isSavedOffLine": false,
+                "isFromInsideBox": true,
+                "goalCrossedY": 35.14375,
+                "goalCrossedZ": 1.3034736778,
+                "expectedGoals": 0.352246761322022,
+                "expectedGoalsOnTarget": 0.533505320549011,
+                "onGoalShot": {
+                    "x": 0.697420634920634,
+                    "y": 0.344834306296296,
+                    "zoomRatio": 1
+                },
+                "box": "InsideBox",
+                "homeTeamId": 1933,
+                "awayTeamId": 94937,
+                "homeTeamName": "Başakşehir",
+                "awayTeamName": "FC Heidenheim",
+                "homeScore": 3,
+                "awayScore": 1,
+                "matchId": 4622200,
+                "matchDate": "2024-12-12T17:45:00Z",
+                "teamColor": "#E20613",
+                "teamColorDark": "#E20613"
+            },
+            {
+                "id": 2758164165,
+                "playerName": "Olivier Kemen",
+                "eventType": "AttemptSaved",
+                "shotType": "RightFoot",
+                "situation": "FastBreak",
+                "teamId": 1933,
+                "playerId": 625164,
+                "x": 98.6315789471,
+                "y": 40.049285715,
+                "min": 17,
+                "period": "FirstHalf",
+                "isOwnGoal": false,
+                "isBlocked": false,
+                "isOnTarget": true,
+                "isSavedOffLine": false,
+                "isFromInsideBox": true,
+                "blockedX": 99.5000000004,
+                "blockedY": 38.956666668,
+                "goalCrossedY": 32.24625,
+                "goalCrossedZ": 0.0385263156,
+                "expectedGoals": 0.233375951647758,
+                "expectedGoalsOnTarget": 0.383847087621689,
+                "onGoalShot": {
+                    "x": 1.46395502645503,
+                    "y": 0.010192146984127,
+                    "zoomRatio": 1
+                },
+                "box": "InsideBox",
+                "homeTeamId": 1933,
+                "awayTeamId": 94937,
+                "homeTeamName": "Başakşehir",
+                "awayTeamName": "FC Heidenheim",
+                "homeScore": 3,
+                "awayScore": 1,
+                "matchId": 4622200,
+                "matchDate": "2024-12-12T17:45:00Z",
+                "teamColor": "#E20613",
+                "teamColorDark": "#E20613"
+            },
+            {
+                "id": 2758164505,
+                "playerName": "Krzysztof Piatek",
+                "eventType": "AttemptSaved",
+                "shotType": "Header",
+                "situation": "FromCorner",
+                "teamId": 1933,
+                "playerId": 543298,
+                "x": 99.2105263157,
+                "y": 34.38125,
+                "min": 18,
+                "period": "FirstHalf",
+                "isOwnGoal": false,
+                "isBlocked": false,
+                "isOnTarget": true,
+                "isSavedOffLine": false,
+                "isFromInsideBox": true,
+                "blockedX": 104.7155172414,
+                "blockedY": 34.1525,
+                "goalCrossedY": 33.77125,
+                "goalCrossedZ": 1.5025263084,
+                "expectedGoals": 0.147026360034943,
+                "expectedGoalsOnTarget": 0.158765137195587,
+                "onGoalShot": {
+                    "x": 1.06051587301587,
+                    "y": 0.397493732380952,
+                    "zoomRatio": 1
+                },
+                "box": "InsideBox",
+                "homeTeamId": 1933,
+                "awayTeamId": 94937,
+                "homeTeamName": "Başakşehir",
+                "awayTeamName": "FC Heidenheim",
+                "homeScore": 3,
+                "awayScore": 1,
+                "matchId": 4622200,
+                "matchDate": "2024-12-12T17:45:00Z",
+                "teamColor": "#E20613",
+                "teamColorDark": "#E20613"
+            },
+            {
+                "id": 2758164525,
+                "playerName": "Miguel Crespo",
+                "eventType": "Goal",
+                "shotType": "RightFoot",
+                "situation": "FromCorner",
+                "teamId": 1933,
+                "playerId": 850288,
+                "x": 102.2500000002,
+                "y": 32.70375,
+                "min": 18,
+                "period": "FirstHalf",
+                "isOwnGoal": false,
+                "isBlocked": false,
+                "isOnTarget": true,
+                "isSavedOffLine": false,
+                "isFromInsideBox": true,
+                "goalCrossedY": 33.16125,
+                "goalCrossedZ": 1.7079999916,
+                "expectedGoals": 0.388217926025391,
+                "expectedGoalsOnTarget": 0.55610603094101,
+                "onGoalShot": {
+                    "x": 1.22189153439154,
+                    "y": 0.45185184962963,
+                    "zoomRatio": 1
+                },
+                "box": "InsideBox",
+                "homeTeamId": 1933,
+                "awayTeamId": 94937,
+                "homeTeamName": "Başakşehir",
+                "awayTeamName": "FC Heidenheim",
+                "homeScore": 3,
+                "awayScore": 1,
+                "matchId": 4622200,
+                "matchDate": "2024-12-12T17:45:00Z",
+                "teamColor": "#E20613",
+                "teamColorDark": "#E20613"
+            },
+            {
+                "id": 2758186121,
+                "playerName": "Deniz Türüc",
+                "eventType": "AttemptSaved",
+                "shotType": "LeftFoot",
+                "situation": "FreeKick",
+                "teamId": 1933,
+                "playerId": 352023,
+                "x": 76.40339806,
+                "y": 44.4912101866,
+                "min": 45,
+                "minAdded": 2,
+                "period": "FirstHalf",
+                "isOwnGoal": false,
+                "isBlocked": false,
+                "isOnTarget": true,
+                "isSavedOffLine": false,
+                "isFromInsideBox": false,
+                "blockedX": 104.4310344828,
+                "blockedY": 33.00875,
+                "goalCrossedY": 31.94125,
+                "goalCrossedZ": 0.2054736832,
+                "expectedGoals": 0.0329049490392208,
+                "expectedGoalsOnTarget": 0.0432788841426372,
+                "onGoalShot": {
+                    "x": 1.54464285714286,
+                    "y": 0.0543581172486773,
+                    "zoomRatio": 1
+                },
+                "box": "OutsideBox",
+                "homeTeamId": 1933,
+                "awayTeamId": 94937,
+                "homeTeamName": "Başakşehir",
+                "awayTeamName": "FC Heidenheim",
+                "homeScore": 3,
+                "awayScore": 1,
+                "matchId": 4622200,
+                "matchDate": "2024-12-12T17:45:00Z",
+                "teamColor": "#E20613",
+                "teamColorDark": "#E20613"
+            },
+            {
+                "id": 2758205687,
+                "playerName": "Krzysztof Piatek",
+                "eventType": "Goal",
+                "shotType": "LeftFoot",
+                "situation": "RegularPlay",
+                "teamId": 1933,
+                "playerId": 543298,
+                "x": 93.8,
+                "y": 43.044375,
+                "min": 68,
+                "period": "SecondHalf",
+                "isOwnGoal": false,
+                "isBlocked": false,
+                "isOnTarget": true,
+                "isSavedOffLine": false,
+                "isFromInsideBox": true,
+                "goalCrossedY": 34.7625,
+                "goalCrossedZ": 0.1219999994,
+                "expectedGoals": 0.118024930357933,
+                "expectedGoalsOnTarget": 0.161783069372177,
+                "onGoalShot": {
+                    "x": 0.798280423280423,
+                    "y": 0.0322751321164021,
+                    "zoomRatio": 1
+                },
+                "box": "InsideBox",
+                "homeTeamId": 1933,
+                "awayTeamId": 94937,
+                "homeTeamName": "Başakşehir",
+                "awayTeamName": "FC Heidenheim",
+                "homeScore": 3,
+                "awayScore": 1,
+                "matchId": 4622200,
+                "matchDate": "2024-12-12T17:45:00Z",
+                "teamColor": "#E20613",
+                "teamColorDark": "#E20613"
+            }
+        ],
+        "statsSection": {
+            "id": "stats-section",
+            "items": [
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "saves",
+                            "per90": 3,
+                            "percentileRank": 9.523809523809524,
+                            "percentileRankPer90": 38.095238095238095,
+                            "statFormat": "number",
+                            "statValue": "3",
+                            "title": "Saves"
+                        },
+                        {
+                            "localizedTitleId": "save_percentage",
+                            "per90": 50,
+                            "percentileRank": 6.349206349206349,
+                            "percentileRankPer90": 6.349206349206349,
+                            "statFormat": "percent",
+                            "statValue": "50.0",
+                            "title": "Save percentage"
+                        },
+                        {
+                            "localizedTitleId": "goals_conceded",
+                            "per90": 3,
+                            "percentileRank": 69.84126984126983,
+                            "percentileRankPer90": 3.1746031746031744,
+                            "statFormat": "number",
+                            "statValue": "3",
+                            "title": "Goals conceded"
+                        },
+                        {
+                            "localizedTitleId": "goals_prevented",
+                            "per90": -1.1627000570297241,
+                            "percentileRank": 9.523809523809524,
+                            "percentileRankPer90": 0,
+                            "statFormat": "fraction",
+                            "statValue": "-1.16",
+                            "title": "Goals prevented"
+                        },
+                        {
+                            "localizedTitleId": "clean_sheet_team_title",
+                            "per90": 0,
+                            "percentileRank": 0,
+                            "percentileRankPer90": 0,
+                            "statFormat": "number",
+                            "statValue": "0",
+                            "title": "Clean sheets"
+                        },
+                        {
+                            "localizedTitleId": "error_led_to_goal",
+                            "per90": 0,
+                            "percentileRank": 100,
+                            "percentileRankPer90": 100,
+                            "statFormat": "number",
+                            "statValue": "0",
+                            "title": "Error led to goal"
+                        },
+                        {
+                            "localizedTitleId": "keeper_sweeper",
+                            "per90": 1,
+                            "percentileRank": 30.158730158730158,
+                            "percentileRankPer90": 87.3015873015873,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "Acted as sweeper"
+                        },
+                        {
+                            "localizedTitleId": "keeper_high_claim",
+                            "per90": 1,
+                            "percentileRank": 15.873015873015872,
+                            "percentileRankPer90": 61.904761904761905,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "High claims"
+                        }
+                    ],
+                    "localizedTitleId": "goalkeeping",
+                    "title": "Goalkeeping",
+                    "type": "stat-values"
+                },
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "successful_passes_accuracy",
+                            "per90": 80,
+                            "percentileRank": 76.19047619047619,
+                            "percentileRankPer90": 76.19047619047619,
+                            "statFormat": "percent",
+                            "statValue": "80.0",
+                            "title": "Pass accuracy"
+                        },
+                        {
+                            "localizedTitleId": "long_balls_accurate",
+                            "per90": 6,
+                            "percentileRank": 12.698412698412698,
+                            "percentileRankPer90": 69.84126984126983,
+                            "statFormat": "number",
+                            "statValue": "6",
+                            "title": "Accurate long balls"
+                        },
+                        {
+                            "localizedTitleId": "long_ball_succeeeded_accuracy",
+                            "per90": 46.15384615384615,
+                            "percentileRank": 77.77777777777779,
+                            "percentileRankPer90": 77.77777777777779,
+                            "statFormat": "percent",
+                            "statValue": "46.2",
+                            "title": "Long ball accuracy"
+                        }
+                    ],
+                    "localizedTitleId": "distribution",
+                    "title": "Distribution",
+                    "type": "stat-values"
+                },
+                {
+                    "display": "stats-group",
+                    "items": [
+                        {
+                            "localizedTitleId": "yellow_cards",
+                            "per90": 1,
+                            "percentileRank": 4.761904761904762,
+                            "percentileRankPer90": 0,
+                            "statFormat": "number",
+                            "statValue": "1",
+                            "title": "Yellow cards"
+                        },
+                        {
+                            "localizedTitleId": "red_cards",
+                            "per90": 0,
+                            "percentileRank": 100,
+                            "percentileRankPer90": 100,
+                            "statFormat": "number",
+                            "statValue": "0",
+                            "title": "Red cards"
+                        }
+                    ],
+                    "localizedTitleId": "discipline",
+                    "title": "Discipline",
+                    "type": "stat-values"
+                }
+            ],
+            "localizedTitleId": "season_performance",
+            "title": "Season performance",
+            "type": "grouped-stat-values"
+        },
+        "topStatCard": {
+            "display": "stats-group",
+            "id": "top-stat-card",
+            "items": [
+                {
+                    "localizedTitleId": "goals_conceded",
+                    "per90": 3,
+                    "percentileRank": 69.84126984126983,
+                    "percentileRankPer90": 3.1746031746031744,
+                    "statFormat": "number",
+                    "statValue": "3",
+                    "title": "Conceded"
+                },
+                {
+                    "localizedTitleId": "clean_sheet_title",
+                    "per90": 0,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 0,
+                    "statFormat": "number",
+                    "statValue": "0",
+                    "title": "Clean sheets"
+                },
+                {
+                    "localizedTitleId": "rating",
+                    "per90": 5.13,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 0,
+                    "statFormat": "fraction",
+                    "statValue": "5.13",
+                    "title": "Rating"
+                },
+                {
+                    "localizedTitleId": "matches_uppercase",
+                    "per90": 1,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 0,
+                    "statFormat": "number",
+                    "statValue": "1",
+                    "title": "Matches"
+                },
+                {
+                    "localizedTitleId": "player_started_matches",
+                    "per90": 1,
+                    "percentileRank": 0,
+                    "percentileRankPer90": 19.047619047619047,
+                    "statFormat": "number",
+                    "statValue": "1",
+                    "title": "Started"
+                },
+                {
+                    "localizedTitleId": "saved_penalties",
+                    "per90": 0,
+                    "statFormat": "unknown",
+                    "statValue": "0/0",
+                    "title": "Penalties saved"
+                }
+            ],
+            "type": "stat-values"
+        },
+        "shotmap": null
+    },
+    "status": "active"
+}

@@ -1,0 +1,101 @@
+player_id,league_id,league_name,season,title,value
+212867,47,Premier League,2024/2025,Goals,7.0
+212867,47,Premier League,2024/2025,Assists,9.0
+212867,47,Premier League,2024/2025,Started,23.0
+212867,47,Premier League,2024/2025,Matches,28.0
+212867,47,Premier League,2024/2025,Minutes played,2010.0
+212867,47,Premier League,2024/2025,Rating,7.34
+212867,47,Premier League,2024/2025,Yellow cards,1.0
+212867,47,Premier League,2024/2025,Red cards,0.0
+212868,146,2. Bundesliga,2020/2021,Goals,0.0
+212868,146,2. Bundesliga,2020/2021,Assists,0.0
+212868,146,2. Bundesliga,2020/2021,Started,1.0
+212868,146,2. Bundesliga,2020/2021,Matches,2.0
+212868,146,2. Bundesliga,2020/2021,Minutes played,135.0
+212868,146,2. Bundesliga,2020/2021,Rating,6.36
+212868,146,2. Bundesliga,2020/2021,Yellow cards,1.0
+212868,146,2. Bundesliga,2020/2021,Red cards,0.0
+212869,512,Regionalliga North,2024/2025,Goals,2
+212869,512,Regionalliga North,2024/2025,Started,0
+212869,512,Regionalliga North,2024/2025,Matches,0
+212869,512,Regionalliga North,2024/2025,Minutes played,0
+212869,512,Regionalliga North,2024/2025,Yellow cards,0
+212869,512,Regionalliga North,2024/2025,Red cards,0
+212870,136,Cyprus League,2024/2025,Goals,0
+212870,136,Cyprus League,2024/2025,Assists,0
+212870,136,Cyprus League,2024/2025,Started,2
+212870,136,Cyprus League,2024/2025,Matches,4
+212870,136,Cyprus League,2024/2025,Minutes played,217
+212870,136,Cyprus League,2024/2025,Yellow cards,0
+212870,136,Cyprus League,2024/2025,Red cards,0
+212873,54,Bundesliga,2023/2024,Clean sheets,1
+212873,54,Bundesliga,2023/2024,Goals conceded,3
+212873,54,Bundesliga,2023/2024,Saved penalties,0/0
+212873,54,Bundesliga,2023/2024,Rating,7.17
+212873,54,Bundesliga,2023/2024,Matches,4
+212873,54,Bundesliga,2023/2024,Minutes played,360
+212873,54,Bundesliga,2023/2024,Yellow cards,0
+212873,54,Bundesliga,2023/2024,Red cards,0
+212875,176,1. Liga,2024/2025,Goals,9
+212875,176,1. Liga,2024/2025,Assists,1
+212875,176,1. Liga,2024/2025,Started,16
+212875,176,1. Liga,2024/2025,Matches,21
+212875,176,1. Liga,2024/2025,Minutes played,1280
+212875,176,1. Liga,2024/2025,Yellow cards,1
+212875,176,1. Liga,2024/2025,Red cards,0
+212881,71,Super Lig,2024/2025,Goals,0.0
+212881,71,Super Lig,2024/2025,Assists,0.0
+212881,71,Super Lig,2024/2025,Started,6.0
+212881,71,Super Lig,2024/2025,Matches,7.0
+212881,71,Super Lig,2024/2025,Minutes played,521.0
+212881,71,Super Lig,2024/2025,Rating,6.83
+212881,71,Super Lig,2024/2025,Yellow cards,0.0
+212881,71,Super Lig,2024/2025,Red cards,0.0
+212885,9138,Segunda Federacion - Group 1,2023/2024,Clean sheets,0
+212885,9138,Segunda Federacion - Group 1,2023/2024,Saved penalties,0/0
+212885,9138,Segunda Federacion - Group 1,2023/2024,Matches,0
+212885,9138,Segunda Federacion - Group 1,2023/2024,Minutes played,0
+212885,9138,Segunda Federacion - Group 1,2023/2024,Yellow cards,0
+212885,9138,Segunda Federacion - Group 1,2023/2024,Red cards,1
+212890,146,2. Bundesliga,2022/2023,Goals,0.0
+212890,146,2. Bundesliga,2022/2023,Assists,0.0
+212890,146,2. Bundesliga,2022/2023,Started,25.0
+212890,146,2. Bundesliga,2022/2023,Matches,26.0
+212890,146,2. Bundesliga,2022/2023,Minutes played,2273.0
+212890,146,2. Bundesliga,2022/2023,Rating,6.71
+212890,146,2. Bundesliga,2022/2023,Yellow cards,3.0
+212890,146,2. Bundesliga,2022/2023,Red cards,0.0
+212892,69,Super League,2021/2022,Goals,0.0
+212892,69,Super League,2021/2022,Assists,0.0
+212892,69,Super League,2021/2022,Started,6.0
+212892,69,Super League,2021/2022,Matches,9.0
+212892,69,Super League,2021/2022,Minutes played,485.0
+212892,69,Super League,2021/2022,Rating,6.46
+212892,69,Super League,2021/2022,Yellow cards,2.0
+212892,69,Super League,2021/2022,Red cards,0.0
+212893,54,Bundesliga,2024/2025,Goals,0.0
+212893,54,Bundesliga,2024/2025,Assists,0.0
+212893,54,Bundesliga,2024/2025,Started,0.0
+212893,54,Bundesliga,2024/2025,Matches,3.0
+212893,54,Bundesliga,2024/2025,Minutes played,50.0
+212893,54,Bundesliga,2024/2025,Rating,5.72
+212893,54,Bundesliga,2024/2025,Yellow cards,1.0
+212893,54,Bundesliga,2024/2025,Red cards,0.0
+212894,512,Regionalliga North,2024/2025,Goals,5
+212894,512,Regionalliga North,2024/2025,Started,0
+212894,512,Regionalliga North,2024/2025,Matches,0
+212894,512,Regionalliga North,2024/2025,Minutes played,0
+212894,512,Regionalliga North,2024/2025,Yellow cards,0
+212894,512,Regionalliga North,2024/2025,Red cards,0
+212896,248,Meistriliiga,2024,Goals,2
+212896,248,Meistriliiga,2024,Started,0
+212896,248,Meistriliiga,2024,Matches,0
+212896,248,Meistriliiga,2024,Minutes played,0
+212896,248,Meistriliiga,2024,Yellow cards,0
+212896,248,Meistriliiga,2024,Red cards,0
+212898,512,Regionalliga West,2021/2022,Goals,1
+212898,512,Regionalliga West,2021/2022,Started,0
+212898,512,Regionalliga West,2021/2022,Matches,0
+212898,512,Regionalliga West,2021/2022,Minutes played,0
+212898,512,Regionalliga West,2021/2022,Yellow cards,0
+212898,512,Regionalliga West,2021/2022,Red cards,0

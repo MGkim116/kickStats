@@ -1,0 +1,1105 @@
+{
+    "id": 212894,
+    "name": "Markus Ziereis",
+    "birthDate": {
+        "utcTime": "1992-08-26T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 79905,
+        "teamName": "Oldenburg",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#000068",
+            "colorAlternate": "#000068",
+            "colorAway": "#000068",
+            "colorAwayAlternate": "#000068"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "Striker",
+            "key": "striker"
+        },
+        "positions": [
+            {
+                "strPos": {
+                    "label": "Striker",
+                    "key": "striker"
+                },
+                "strPosShort": {
+                    "label": "ST",
+                    "key": "striker_short"
+                },
+                "occurences": 1,
+                "position": "106",
+                "isMainPosition": true,
+                "pitchPositionData": {
+                    "right": 0.5,
+                    "top": 0.1
+                }
+            }
+        ]
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 185,
+                "key": null,
+                "fallback": "185 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 32,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "32"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": "both",
+                "fallback": "Both"
+            },
+            "title": "Preferred foot",
+            "translationKey": "preferred_foot"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        }
+    ],
+    "mainLeague": {
+        "leagueId": 512,
+        "leagueName": "Regionalliga North",
+        "season": "2024/2025",
+        "stats": [
+            {
+                "title": "Goals",
+                "localizedTitleId": "goals",
+                "value": 5
+            },
+            {
+                "title": "Started",
+                "localizedTitleId": "started",
+                "value": 0
+            },
+            {
+                "title": "Matches",
+                "localizedTitleId": "matches_uppercase",
+                "value": 0
+            },
+            {
+                "title": "Minutes played",
+                "localizedTitleId": "minutes_played",
+                "value": 0
+            },
+            {
+                "title": "Yellow cards",
+                "localizedTitleId": "yellow_cards",
+                "value": 0
+            },
+            {
+                "title": "Red cards",
+                "localizedTitleId": "red_cards",
+                "value": 0
+            }
+        ]
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "showFootnote": false,
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "participantId": 212894,
+                        "teamId": 79905,
+                        "team": "Oldenburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2023-07-25T00:00:00",
+                        "endDate": null,
+                        "active": true,
+                        "role": null,
+                        "appearances": "51",
+                        "goals": "14",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 7792,
+                        "team": "SpVgg Bayreuth",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2020-07-01T00:00:00",
+                        "endDate": "2023-07-25T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "82",
+                        "goals": "35",
+                        "assists": "1",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2017-08-10T00:00:00",
+                        "endDate": "2020-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "52",
+                        "goals": "15",
+                        "assists": "1",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 7789,
+                        "team": "Jahn Regensburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2015-07-01T00:00:00",
+                        "endDate": "2017-08-10T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "43",
+                        "goals": "19",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 6596,
+                        "team": "Chemnitzer FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2014-07-01T00:00:00",
+                        "endDate": "2015-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "22",
+                        "goals": "1",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 8262,
+                        "team": "Darmstadt",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        },
+                        "startDate": "2014-01-03T00:00:00",
+                        "endDate": "2014-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "6",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 88885,
+                        "team": "FSV Frankfurt",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        },
+                        "startDate": "2013-07-01T00:00:00",
+                        "endDate": "2014-01-03T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "5",
+                        "goals": "1",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2010-08-01T00:00:00",
+                        "endDate": "2013-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "72",
+                        "goals": "26",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    },
+                    {
+                        "participantId": 212894,
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null,
+                        "startDate": "2010-07-01T00:00:00",
+                        "endDate": "2013-06-30T00:00:00",
+                        "active": false,
+                        "role": null,
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "hasUncertainData": false
+                    }
+                ],
+                "seasonEntries": [
+                    {
+                        "seasonName": "2024/2025",
+                        "appearances": "22",
+                        "goals": "5",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2024/2025",
+                                "tournamentId": -1,
+                                "goals": "5",
+                                "assists": "undefined",
+                                "appearances": "22",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 79905,
+                        "team": "Oldenburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2023/2024",
+                        "appearances": "29",
+                        "goals": "9",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2023/2024",
+                                "tournamentId": -1,
+                                "goals": "9",
+                                "assists": "undefined",
+                                "appearances": "29",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 79905,
+                        "team": "Oldenburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2022/2023",
+                        "appearances": "38",
+                        "goals": "8",
+                        "assists": "1",
+                        "rating": {
+                            "num": "6.4",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2022/2023",
+                                "tournamentId": 17868,
+                                "goals": "8",
+                                "assists": "1",
+                                "appearances": "37",
+                                "rating": {
+                                    "num": "6.5",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2022/2023",
+                                "tournamentId": 17692,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "6.3",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            }
+                        ],
+                        "teamId": 7792,
+                        "team": "SpVgg Bayreuth",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2021/2022",
+                        "appearances": "33",
+                        "goals": "21",
+                        "assists": "0",
+                        "rating": {
+                            "num": "6.1",
+                            "bgcolor": "rgba(240, 128, 34, 1.0)"
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2021/2022",
+                                "tournamentId": 16553,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "6.1",
+                                    "bgcolor": "rgba(240, 128, 34, 1.0)"
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2021/2022",
+                                "tournamentId": -1,
+                                "goals": "21",
+                                "assists": "undefined",
+                                "appearances": "32",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 7792,
+                        "team": "SpVgg Bayreuth",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2020/2021",
+                        "appearances": "5",
+                        "goals": "3",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Bayern Ligapokal",
+                                "seasonName": "2020/2021",
+                                "tournamentId": -1,
+                                "goals": "3",
+                                "assists": "undefined",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 7792,
+                        "team": "SpVgg Bayreuth",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2019/2020",
+                        "appearances": "6",
+                        "goals": "3",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2019/2020",
+                                "tournamentId": -1,
+                                "goals": "3",
+                                "assists": "undefined",
+                                "appearances": "6",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 7792,
+                        "team": "SpVgg Bayreuth",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2019/2020",
+                        "appearances": "11",
+                        "goals": "1",
+                        "assists": "1",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2019/2020",
+                                "tournamentId": 14171,
+                                "goals": "1",
+                                "assists": "1",
+                                "appearances": "11",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2018/2019",
+                        "appearances": "11",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12916,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "10",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2018/2019",
+                                "tournamentId": 12743,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2017/2018",
+                        "appearances": "30",
+                        "goals": "14",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2017/2018",
+                                "tournamentId": 11512,
+                                "goals": "0",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2017/2018",
+                                "tournamentId": -1,
+                                "goals": "14",
+                                "assists": "undefined",
+                                "appearances": "29",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2016/2017",
+                        "appearances": "10",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2016/2017",
+                                "tournamentId": 10546,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "10",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 7789,
+                        "team": "Jahn Regensburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2015/2016",
+                        "appearances": "33",
+                        "goals": "19",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2015/2016",
+                                "tournamentId": -1,
+                                "goals": "19",
+                                "assists": "undefined",
+                                "appearances": "33",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 7789,
+                        "team": "Jahn Regensburg",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2014/2015",
+                        "appearances": "22",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8689,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "21",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            },
+                            {
+                                "isFriendly": false,
+                                "leagueId": 209,
+                                "leagueName": "DFB Pokal",
+                                "seasonName": "2014/2015",
+                                "tournamentId": 8550,
+                                "goals": "1",
+                                "assists": "0",
+                                "appearances": "1",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 6596,
+                        "team": "Chemnitzer FC",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2013/2014",
+                        "appearances": "6",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 208,
+                                "leagueName": "3. Liga",
+                                "seasonName": "2013/2014",
+                                "tournamentId": 7796,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "6",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 8262,
+                        "team": "Darmstadt",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "on loan",
+                            "localizationKey": "on_loan"
+                        }
+                    },
+                    {
+                        "seasonName": "2013/2014",
+                        "appearances": "5",
+                        "goals": "1",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2013/2014",
+                                "tournamentId": 7772,
+                                "goals": "1",
+                                "assists": "undefined",
+                                "appearances": "5",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 88885,
+                        "team": "FSV Frankfurt",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": {
+                            "text": "free transfer",
+                            "localizationKey": "free_transfer"
+                        }
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "35",
+                        "goals": "22",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": -1,
+                                "goals": "22",
+                                "assists": "undefined",
+                                "appearances": "35",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2011/2012",
+                        "appearances": "27",
+                        "goals": "4",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2011/2012",
+                                "tournamentId": -1,
+                                "goals": "4",
+                                "assists": "undefined",
+                                "appearances": "27",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2010/2011",
+                        "appearances": "10",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueName": "Regionalliga",
+                                "seasonName": "2010/2011",
+                                "tournamentId": -1,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "10",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9901,
+                        "team": "1860 Muenchen II",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    },
+                    {
+                        "seasonName": "2012/2013",
+                        "appearances": "4",
+                        "goals": "0",
+                        "assists": "0",
+                        "rating": {
+                            "num": "-",
+                            "bgcolor": null
+                        },
+                        "tournamentStats": [
+                            {
+                                "isFriendly": false,
+                                "leagueId": 146,
+                                "leagueName": "2. Bundesliga",
+                                "seasonName": "2012/2013",
+                                "tournamentId": 6990,
+                                "goals": "0",
+                                "assists": "undefined",
+                                "appearances": "4",
+                                "rating": {
+                                    "num": "-",
+                                    "bgcolor": null
+                                }
+                            }
+                        ],
+                        "teamId": 9753,
+                        "team": "1860 München",
+                        "teamGender": "male",
+                        "showTeamGender": false,
+                        "transferType": null
+                    }
+                ]
+            }
+        },
+        "fullCareer": true
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "markus-ziereis",
+        "pageurl": "/players/212894/markus-ziereis",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Markus Ziereis?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Markus Ziereis is 32 years old. Born on Wed Aug 26 1992."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Markus Ziereis?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Markus Ziereis is 185 cm tall. Or 6 ft 0.8 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Markus Ziereis born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Markus Ziereis was born Wed Aug 26 1992 and is now 32 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Which is Markus Ziereis's preferred foot?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Markus Ziereis's preferred foot is both."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Markus Ziereis from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Markus Ziereis is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Markus Ziereis",
+            "birthDate": "1992-08-26T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212894/markus-ziereis",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "Oldenburg"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "185"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "73"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Regionalliga North 2024/2025",
+                    "item": "https://www.fotmob.com/leagues/512/overview/regionalliga-north-20242025"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Oldenburg",
+                    "item": "https://www.fotmob.com/teams/79905/overview/oldenburg"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Markus Ziereis",
+                    "item": "https://www.fotmob.com/leagues/212894/overview/markus-ziereis"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2024/2025",
+            "tournaments": [
+                {
+                    "name": "Regionalliga North",
+                    "tournamentId": 512,
+                    "entryId": "0-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2023/2024",
+            "tournaments": [
+                {
+                    "name": "Regionalliga North",
+                    "tournamentId": 512,
+                    "entryId": "1-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2022/2023",
+            "tournaments": [
+                {
+                    "name": "3. Liga",
+                    "tournamentId": 208,
+                    "entryId": "2-0"
+                },
+                {
+                    "name": "DFB Pokal",
+                    "tournamentId": 209,
+                    "entryId": "2-1"
+                }
+            ]
+        },
+        {
+            "seasonName": "2021/2022",
+            "tournaments": [
+                {
+                    "name": "Regionalliga Bayern",
+                    "tournamentId": 512,
+                    "entryId": "3-0"
+                },
+                {
+                    "name": "DFB Pokal",
+                    "tournamentId": 209,
+                    "entryId": "3-1"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": null,
+    "status": "active"
+}

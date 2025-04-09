@@ -1,0 +1,225 @@
+{
+    "id": 212871,
+    "name": "Alan Stulin",
+    "birthDate": {
+        "utcTime": "1990-06-05T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": null,
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "midfielder",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 170,
+                "key": null,
+                "fallback": "170 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 34,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "34"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Poland"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "POL"
+            },
+            "countryCode": "POL"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 8396,
+                        "team": "Alemannia Aachen",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1530835200000,
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 89339,
+                        "team": "Wormatia Worms",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": 1530835200000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8569,
+                        "team": "GKS Belchatow",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8490,
+                        "team": "Kaiserslautern II",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8350,
+                        "team": "Kaiserslautern",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "alan-stulin",
+        "pageurl": "/players/212871/alan-stulin",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Alan Stulin?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alan Stulin is 34 years old. Born on Tue Jun 05 1990."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Alan Stulin?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alan Stulin is 170 cm tall. Or 5 ft 6.9 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Alan Stulin born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alan Stulin was born Tue Jun 05 1990 and is now 34 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Alan Stulin from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Alan Stulin is from Poland."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Alan Stulin",
+            "birthDate": "1990-06-05T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212871/alan-stulin",
+            "nationality": {
+                "@type": "Country",
+                "name": "Poland"
+            },
+            "affiliation": null,
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "170"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "63"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Alan Stulin",
+                    "item": "https://www.fotmob.com/leagues/212871/overview/alan-stulin"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "unattached"
+}

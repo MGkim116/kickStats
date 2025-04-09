@@ -1,0 +1,203 @@
+player_id,match_id,match_date,league_id,league_name,team_id,team_name,opponent_team_id,opponent_team_name,is_home,home_score,away_score,minutes_played,goals,assists,yellow_cards,red_cards,rating
+212867,4506381,2025-04-06T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8466,Southampton,True,3,1,57,0,0,0,0,6.6
+212867,4506368,2025-04-03T21:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8455,Chelsea,False,1,0,90,0,0,0,0,6.2
+212867,4523719,2025-03-25T12:00:00.000Z,10197,World Cup Qualification AFC 3rd Round Grp. B,7804,South Korea,5816,Jordan,True,1,1,89,0,1,0,0,7.8
+212867,4523716,2025-03-20T12:00:00.000Z,10197,World Cup Qualification AFC 3rd Round Grp. B,7804,South Korea,5824,Oman,True,1,1,90,0,0,0,0,7.6
+212867,4506357,2025-03-16T14:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,9879,Fulham,False,2,0,45,0,0,0,0,6.5
+212867,4737596,2025-03-13T21:00:00.000Z,73,Europa League Final Stage,8586,Tottenham Hotspur,10229,AZ Alkmaar,True,3,1,90,0,1,0,0,8.0
+212867,4506350,2025-03-09T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8678,AFC Bournemouth,True,2,2,45,1,0,0,0,7.8
+212867,4737588,2025-03-06T18:45:00.000Z,73,Europa League Final Stage,8586,Tottenham Hotspur,10229,AZ Alkmaar,False,1,0,72,0,0,0,0,6.1
+212867,4506336,2025-02-26T20:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8456,Manchester City,True,0,1,23,0,0,0,0,6.3
+212867,4506638,2025-02-22T16:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9902,Ipswich Town,False,1,4,74,0,2,0,0,8.5
+212867,4506631,2025-02-16T17:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,10260,Manchester United,True,1,0,87,0,0,0,0,7.8
+212867,4710576,2025-02-09T18:35:00.000Z,132,FA Cup,8586,Tottenham Hotspur,10252,Aston Villa,False,2,1,90,0,0,0,0,5.9
+212867,4694762,2025-02-06T21:00:00.000Z,133,EFL Cup,8586,Tottenham Hotspur,8650,Liverpool,False,4,0,90,0,0,0,0,6.3
+212867,4506615,2025-02-02T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9937,Brentford,False,0,2,90,0,1,1,0,7.9
+212867,4622042,2025-01-30T21:00:00.000Z,73,Europa League,8586,Tottenham Hotspur,8014,Elfsborg,True,3,0,45,0,0,0,0,8.5
+212867,4506611,2025-01-26T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8197,Leicester City,True,1,2,90,0,0,0,0,7.4
+212867,4622128,2025-01-23T18:45:00.000Z,73,Europa League,8586,Tottenham Hotspur,8226,Hoffenheim,False,2,3,79,2,0,0,0,8.9
+212867,4506526,2025-01-19T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8668,Everton,False,3,2,90,0,0,0,0,6.5
+212867,4506513,2025-01-15T21:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9825,Arsenal,False,2,1,78,1,0,0,0,7.1
+212867,4684086,2025-01-12T13:30:00.000Z,132,FA Cup,8586,Tottenham Hotspur,10254,Tamworth,False,0,3,30,0,1,0,0,7.3
+212867,4694761,2025-01-08T21:00:00.000Z,133,EFL Cup,8586,Tottenham Hotspur,8650,Liverpool,True,1,0,72,0,0,0,0,6.8
+212867,4506511,2025-01-04T13:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,10261,Newcastle United,True,1,2,28,0,0,0,0,6.7
+212867,4506501,2024-12-29T16:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8602,Wolverhampton Wanderers,True,2,2,64,0,0,0,0,6.4
+212867,4506490,2024-12-26T16:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,10203,Nottingham Forest,False,1,0,81,0,0,0,0,7.2
+212867,4506461,2024-12-22T17:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8650,Liverpool,True,3,6,82,0,0,0,0,6.3
+212867,4667718,2024-12-19T21:00:00.000Z,133,EFL Cup,8586,Tottenham Hotspur,10260,Manchester United,True,4,3,90,1,0,0,0,7.9
+212867,4506451,2024-12-15T20:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8466,Southampton,False,0,5,45,1,2,0,0,9.1
+212867,4622014,2024-12-12T21:00:00.000Z,73,Europa League,8586,Tottenham Hotspur,8548,Rangers,False,1,1,90,0,0,0,0,6.7
+212867,4506441,2024-12-08T17:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8455,Chelsea,True,3,4,90,1,0,0,0,7.8
+212867,4506423,2024-12-05T21:15:00.000Z,47,Premier League,8586,Tottenham Hotspur,8678,AFC Bournemouth,False,1,0,33,0,0,0,0,6.4
+212867,4506420,2024-12-01T14:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,9879,Fulham,True,1,1,90,0,0,0,0,6.6
+212867,4622039,2024-11-28T21:00:00.000Z,73,Europa League,8586,Tottenham Hotspur,8686,Roma,True,2,2,78,1,0,0,0,8.2
+212867,4506540,2024-11-23T18:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8456,Manchester City,False,0,4,63,0,1,0,0,7.9
+212867,4523714,2024-11-19T15:00:00.000Z,10197,World Cup Qualification AFC 3rd Round Grp. B,7804,South Korea,6333,Palestine,False,1,1,90,1,0,0,0,8.5
+212867,4523712,2024-11-14T15:00:00.000Z,10197,World Cup Qualification AFC 3rd Round Grp. B,7804,South Korea,5821,Kuwait,False,1,3,64,1,0,0,0,7.8
+212867,4506480,2024-11-10T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9902,Ipswich Town,True,1,2,90,0,0,0,0,7.1
+212867,4622100,2024-11-07T18:45:00.000Z,73,Europa League,8586,Tottenham Hotspur,8637,Galatasaray,False,3,2,45,0,0,0,0,6.1
+212867,4506471,2024-11-03T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,10252,Aston Villa,True,4,1,56,0,1,0,0,7.9
+212867,4506401,2024-10-19T13:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8654,West Ham United,True,4,1,70,1,0,0,0,8.5
+212867,4622041,2024-09-26T21:35:00.000Z,73,Europa League,8586,Tottenham Hotspur,7981,Qarabag FK,True,3,0,71,0,0,0,0,6.9
+212867,4506311,2024-09-21T16:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9937,Brentford,True,3,1,90,0,2,0,0,9.0
+212867,4620883,2024-09-18T21:00:00.000Z,133,EFL Cup,8586,Tottenham Hotspur,8669,Coventry City,False,1,2,28,0,0,0,0,6.1
+212867,4506301,2024-09-15T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9825,Arsenal,True,0,1,90,0,0,0,0,7.0
+212867,4523681,2024-09-10T16:00:00.000Z,10197,World Cup Qualification AFC 3rd Round Grp. B,7804,South Korea,5824,Oman,False,1,3,90,1,2,0,0,9.0
+212867,4523678,2024-09-05T13:00:00.000Z,10197,World Cup Qualification AFC 3rd Round Grp. B,7804,South Korea,6333,Palestine,True,0,0,90,0,0,0,0,7.2
+212867,4506290,2024-09-01T14:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,10261,Newcastle United,False,2,1,90,0,0,0,0,7.1
+212867,4506281,2024-08-24T16:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8668,Everton,True,4,0,90,2,0,0,0,9.0
+212867,4506272,2024-08-19T21:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8197,Leicester City,False,1,1,89,0,0,0,0,7.3
+212867,4454950,2024-08-10T18:30:00.000Z,489,Club Friendlies,8586,Tottenham Hotspur,9823,Bayern München,True,2,3,80,0,0,0,0,6.0
+212867,4525458,2024-08-03T13:00:00.000Z,489,Club Friendlies,8586,Tottenham Hotspur,9823,Bayern München,False,2,1,75,0,0,0,0,6.8
+212867,4486165,2024-07-20T16:00:00.000Z,489,Club Friendlies,8586,Tottenham Hotspur,10172,Queens Park Rangers,False,0,2,45,0,0,0,0,6.3
+212867,4488565,2024-07-17T20:00:00.000Z,489,Club Friendlies,8586,Tottenham Hotspur,9860,Hearts,False,1,5,45,0,0,0,0,6.5
+212867,4278058,2024-06-11T13:00:00.000Z,10197,World Cup Qualification AFC 2nd Round Grp. C,7804,South Korea,5822,China,True,1,0,90,0,0,0,0,8.1
+212867,4348590,2024-06-06T14:00:00.000Z,10197,World Cup Qualification AFC 2nd Round Grp. C,7804,South Korea,5825,Singapore,False,0,7,87,2,0,0,0,8.7
+212867,4450685,2024-05-22T11:45:00.000Z,489,Club Friendlies,8586,Tottenham Hotspur,10261,Newcastle United,False,1,1,61,0,0,0,0,7.2
+212867,4193910,2024-05-19T17:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8657,Sheffield United,False,0,3,88,0,1,0,0,8.4
+212867,4193869,2024-05-14T21:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8456,Manchester City,True,0,2,90,0,0,0,0,6.3
+212867,4193898,2024-05-11T16:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,8191,Burnley,True,2,1,90,0,0,0,0,7.3
+212867,4193887,2024-05-05T17:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8650,Liverpool,False,4,2,90,1,0,0,0,7.9
+212867,4193785,2024-05-02T20:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,8455,Chelsea,False,2,0,90,0,0,0,0,6.9
+212867,4193878,2024-04-28T15:00:00.000Z,47,Premier League,8586,Tottenham Hotspur,9825,Arsenal,True,2,3,90,1,0,0,0,7.5
+212867,4193858,2024-04-13T13:30:00.000Z,47,Premier League,8586,Tottenham Hotspur,10261,Newcastle United,False,4,0,58,0,0,0,0,6.4
+212869,4490613,2024-08-18T18:00:00.000Z,209,DFB Pokal,79904,Meppen,9790,Hamburger SV,True,1,7,62,0,0,0,0,4.8
+212870,4534623,2024-11-10T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8721,Wolfsburg,True,1,3,4,0,0,0,0,0
+212870,4623965,2024-10-30T18:00:00.000Z,209,DFB Pokal,94937,FC Heidenheim,8177,Hertha BSC,False,2,1,82,0,0,0,0,6.1
+212870,4591275,2024-08-29T20:30:00.000Z,10615,Conference League Qualification,94937,FC Heidenheim,8428,Häcken,True,3,2,63,0,0,0,0,6.2
+212870,4591274,2024-08-22T19:00:00.000Z,10615,Conference League Qualification,94937,FC Heidenheim,8428,Häcken,False,1,2,0,0,0,0,0,0
+212870,4490617,2024-08-17T15:30:00.000Z,209,DFB Pokal,94937,FC Heidenheim,4524,FC 08 Villingen,False,0,4,26,0,0,0,0,6.4
+212870,4222388,2024-05-18T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8722,1. FC Köln,True,4,1,3,0,0,0,0,0
+212870,4222373,2024-05-11T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8358,Freiburg,False,1,1,16,0,0,0,0,6.0
+212870,4222370,2024-05-05T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9905,Mainz 05,True,1,1,10,0,0,0,0,6.0
+212870,4222361,2024-04-28T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8262,Darmstadt,False,0,1,21,0,0,0,0,6.2
+212870,4222182,2024-04-20T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,178475,RB Leipzig,True,1,2,22,0,0,0,0,6.6
+212870,4222170,2024-04-13T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9911,Bochum,False,1,1,1,0,0,0,0,0
+212873,4534776,2025-03-30T17:30:00.000Z,54,Bundesliga,9905,Mainz 05,9789,Borussia Dortmund,False,3,1,0,0,0,0,0,0
+212873,4534684,2025-01-14T20:30:00.000Z,54,Bundesliga,9905,Mainz 05,8178,Bayer Leverkusen,False,1,0,0,0,0,0,0,0
+212873,4534681,2025-01-11T15:30:00.000Z,54,Bundesliga,9905,Mainz 05,9911,Bochum,True,2,0,0,0,0,0,0,0
+212873,4222384,2024-05-18T15:30:00.000Z,54,Bundesliga,9905,Mainz 05,8721,Wolfsburg,False,1,3,0,0,0,0,0,0
+212873,4222370,2024-05-05T19:30:00.000Z,54,Bundesliga,9905,Mainz 05,94937,FC Heidenheim,False,1,1,0,0,0,0,0,0
+212873,4222176,2024-04-21T19:30:00.000Z,54,Bundesliga,9905,Mainz 05,8358,Freiburg,False,1,1,0,0,0,0,0,0
+212873,4222168,2024-04-13T15:30:00.000Z,54,Bundesliga,9905,Mainz 05,8226,Hoffenheim,True,4,1,0,0,0,0,0,0
+212874,4526291,2024-12-22T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,165243,Buriram United,False,1,0,61,0,0,0,0,5.9
+212874,4526306,2024-12-15T12:00:00.000Z,8984,Thai League,165251,Muang Thong United,243243,Chiangrai United,False,3,1,90,0,0,0,0,6.6
+212874,4610965,2024-12-05T11:00:00.000Z,9469,AFC Champions League Two Grp. H,165251,Muang Thong United,46038,Jeonbuk Hyundai Motors FC,True,1,0,90,0,0,0,0,7.4
+212874,4610980,2024-11-28T13:00:00.000Z,9469,AFC Champions League Two Grp. H,165251,Muang Thong United,165223,Selangor,False,1,2,85,1,0,0,0,7.6
+212874,4526326,2024-11-23T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,102231,Bangkok United,True,2,1,89,1,0,0,0,7.9
+212874,4526333,2024-11-11T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,165252,Nakhon Pathom,True,3,1,90,1,0,0,0,8.5
+212874,4610987,2024-11-07T11:00:00.000Z,9469,AFC Champions League Two Grp. H,165251,Muang Thong United,1393048,Cebu FC,False,2,9,62,2,1,0,0,9.1
+212874,4526342,2024-11-02T12:00:00.000Z,8984,Thai League,165251,Muang Thong United,585025,Prachuap FC,True,0,2,73,0,0,0,0,6.5
+212874,4526319,2024-10-27T12:00:00.000Z,8984,Thai League,165251,Muang Thong United,165255,Port FC,False,1,1,90,1,0,1,0,7.8
+212874,4610988,2024-10-23T14:00:00.000Z,9469,AFC Champions League Two Grp. H,165251,Muang Thong United,1393048,Cebu FC,True,2,2,90,1,0,0,0,8.0
+212874,4526316,2024-10-19T16:00:00.000Z,8984,Thai League,165251,Muang Thong United,165250,BG Pathum United,True,1,1,89,0,0,0,0,7.0
+212874,4610962,2024-10-03T10:00:00.000Z,9469,AFC Champions League Two Grp. H,165251,Muang Thong United,46038,Jeonbuk Hyundai Motors FC,False,4,1,31,0,0,0,0,6.7
+212874,4526279,2024-09-27T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,626802,Khonkaen United FC,True,0,0,45,0,0,0,0,6.3
+212874,4610990,2024-09-19T12:00:00.000Z,9469,AFC Champions League Two Grp. H,165251,Muang Thong United,165223,Selangor,True,1,1,32,0,0,0,0,6.3
+212874,4526301,2024-09-15T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,584943,Sukhothai FC,True,4,2,45,1,0,0,0,7.5
+212874,4526294,2024-08-31T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,626806,Nong Bua Pitchaya FC,False,0,0,45,0,0,0,0,6.3
+212874,4526244,2024-08-28T13:30:00.000Z,8984,Thai League,165251,Muang Thong United,421346,Ratchaburi FC,True,2,0,65,0,0,0,0,6.5
+212874,4526250,2024-08-23T14:00:00.000Z,8984,Thai League,165251,Muang Thong United,584984,Rayong FC,False,1,1,74,0,0,0,0,6.6
+212874,4526266,2024-08-18T13:00:00.000Z,8984,Thai League,165251,Muang Thong United,584947,Lamphun Warrior,True,1,0,45,0,0,0,0,6.4
+212874,4526259,2024-08-11T14:00:00.000Z,8984,Thai League,165251,Muang Thong United,554037,Nakhon Ratchasima FC,False,2,1,63,0,0,0,0,6.2
+212874,4412998,2024-04-10T16:00:00.000Z,9478,Indian Super League,165184,East Bengal FC,589749,Punjab FC,False,4,1,27,0,0,0,0,5.8
+212875,4621514,2025-01-29T21:00:00.000Z,42,Champions League,6019,Slovan Bratislava,9823,Bayern München,False,3,1,20,0,0,0,0,6.0
+212875,4621652,2025-01-21T21:00:00.000Z,42,Champions League,6019,Slovan Bratislava,10269,VfB Stuttgart,True,1,3,70,0,0,0,0,5.7
+212875,4621572,2024-12-11T18:45:00.000Z,42,Champions League,6019,Slovan Bratislava,9906,Atletico Madrid,False,3,1,72,0,0,0,0,6.0
+212875,4621623,2024-11-26T18:45:00.000Z,42,Champions League,6019,Slovan Bratislava,8564,Milan,True,2,3,1,0,0,0,0,0
+212875,4621639,2024-11-05T18:45:00.000Z,42,Champions League,6019,Slovan Bratislava,10156,Dinamo Zagreb,True,1,4,19,0,0,0,0,6.0
+212875,4621499,2024-10-01T21:00:00.000Z,42,Champions League,6019,Slovan Bratislava,8456,Manchester City,True,0,4,5,0,0,0,0,0
+212875,4621650,2024-09-18T21:00:00.000Z,42,Champions League,6019,Slovan Bratislava,9925,Celtic,False,5,1,14,0,0,0,0,6.3
+212875,4590794,2024-08-28T21:00:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,8113,FC Midtjylland,True,3,2,11,0,1,0,0,7.4
+212875,4590793,2024-08-21T21:00:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,8113,FC Midtjylland,False,1,1,18,0,0,0,0,6.5
+212875,4570202,2024-08-13T19:00:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,8621,APOEL Nicosia,False,0,0,85,0,0,0,0,0
+212875,4570192,2024-08-07T20:30:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,8621,APOEL Nicosia,True,2,0,11,1,0,0,0,7.1
+212875,4509534,2024-07-30T20:30:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,4622,NK Celje,True,5,0,74,1,0,0,0,7.5
+212875,4509533,2024-07-24T20:15:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,4622,NK Celje,False,1,1,80,0,0,1,0,0
+212875,4507161,2024-07-17T17:00:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,866489,FK Struga,False,1,2,57,0,0,0,0,0
+212875,4507160,2024-07-10T19:00:00.000Z,10611,Champions League Qualification,6019,Slovan Bratislava,866489,FK Struga,True,4,2,81,1,0,0,0,7.6
+212875,4473999,2024-05-18T11:45:00.000Z,113,A-League Men Playoff,10164,Sydney FC,8164,Central Coast Mariners,False,0,0,90,0,0,0,0,6.6
+212875,4473998,2024-05-10T11:45:00.000Z,113,A-League Men Playoff,10164,Sydney FC,8164,Central Coast Mariners,True,1,2,84,0,0,0,0,5.9
+212875,4470778,2024-05-04T11:45:00.000Z,113,A-League Men Playoff,10164,Sydney FC,1209973,Macarthur FC,True,4,0,85,2,1,0,0,9.3
+212875,4307899,2024-04-28T07:00:00.000Z,113,A-League Men,10164,Sydney FC,7961,Perth Glory,True,7,1,90,2,1,0,0,9.3
+212875,4307894,2024-04-20T11:45:00.000Z,113,A-League Men,10164,Sydney FC,1209973,Macarthur FC,False,1,0,45,0,0,0,0,6.3
+212881,4549911,2025-04-05T12:30:00.000Z,71,Super Lig,6265,Sivasspor,2166,Rizespor,False,1,1,90,0,0,0,0,7.6
+212881,4549867,2025-03-29T11:30:00.000Z,71,Super Lig,6265,Sivasspor,1926,Adana Demirspor,True,5,1,90,0,0,0,0,6.8
+212881,4549860,2025-03-16T14:00:00.000Z,71,Super Lig,6265,Sivasspor,95749,Hatayspor,False,3,2,90,0,0,0,0,6.5
+212881,4549854,2025-02-08T17:00:00.000Z,71,Super Lig,6265,Sivasspor,10188,Beşiktaş,True,0,2,38,0,0,0,0,6.3
+212881,4549841,2025-01-31T18:00:00.000Z,71,Super Lig,6265,Sivasspor,4681,Eyüpspor,False,1,0,90,0,0,0,0,6.8
+212881,4549797,2025-01-25T11:30:00.000Z,71,Super Lig,6265,Sivasspor,10182,Kayserispor,True,5,2,78,0,0,0,0,7.4
+212881,4549786,2025-01-20T18:00:00.000Z,71,Super Lig,6265,Sivasspor,9752,Trabzonspor,False,4,0,45,0,0,0,0,6.6
+212881,4574971,2024-12-13T18:00:00.000Z,165,1. Lig,9742,Ankaragücü,658812,Manisa Futbol Kulübü,True,0,1,90,0,0,0,0,7.0
+212881,4574953,2024-12-08T14:00:00.000Z,165,1. Lig,9742,Ankaragücü,4675,Boluspor,False,2,3,90,0,0,0,0,7.3
+212881,4574926,2024-12-01T14:00:00.000Z,165,1. Lig,9742,Ankaragücü,95745,Pendikspor,True,1,1,90,0,0,0,0,7.7
+212881,4574931,2024-11-23T17:00:00.000Z,165,1. Lig,9742,Ankaragücü,7800,Gençlerbirliği,False,1,0,90,0,0,0,0,7.9
+212881,4574940,2024-11-08T18:00:00.000Z,165,1. Lig,9742,Ankaragücü,863838,Esenler Erokspor,True,3,0,0,0,0,0,0,0
+212881,4659672,2024-10-29T11:00:00.000Z,151,Cup Qualification,9742,Ankaragücü,1687814,Bursa Nilufer,False,2,3,0,0,0,0,0,0
+212881,4574894,2024-10-26T18:00:00.000Z,165,1. Lig,9742,Ankaragücü,1569,Kocaelispor,True,4,2,90,0,0,1,0,7.9
+212881,4574884,2024-10-18T19:00:00.000Z,165,1. Lig,9742,Ankaragücü,146407,Yeni Malatyaspor,False,0,3,90,1,0,0,0,8.9
+212881,4574902,2024-10-05T15:00:00.000Z,165,1. Lig,9742,Ankaragücü,1568,Adanaspor,True,0,0,90,0,0,0,0,8.0
+212881,4574896,2024-09-28T15:00:00.000Z,165,1. Lig,9742,Ankaragücü,162975,Bandırmaspor,False,2,0,90,0,0,1,0,6.1
+212881,4574849,2024-09-21T18:00:00.000Z,165,1. Lig,9742,Ankaragücü,4124,Sakaryaspor,True,2,1,89,1,0,0,0,8.6
+212881,4574839,2024-08-11T20:45:00.000Z,165,1. Lig,9742,Ankaragücü,2506,Şanlıurfaspor,True,2,0,87,0,0,0,0,7.8
+212881,4257455,2024-05-18T18:00:00.000Z,71,Super Lig,9742,Ankaragücü,95745,Pendikspor,True,0,0,61,0,0,0,0,7.4
+212881,4457255,2024-05-07T19:30:00.000Z,151,Cup,9742,Ankaragücü,10188,Beşiktaş,False,1,0,72,0,0,0,0,0
+212881,4257427,2024-05-03T19:00:00.000Z,71,Super Lig,9742,Ankaragücü,4678,Alanyaspor,True,1,1,10,0,0,1,0,6.2
+212881,4257410,2024-04-28T18:00:00.000Z,71,Super Lig,9742,Ankaragücü,2166,Rizespor,False,2,2,62,0,0,0,0,6.2
+212881,4457254,2024-04-23T19:30:00.000Z,151,Cup,9742,Ankaragücü,10188,Beşiktaş,True,0,0,65,0,0,1,0,0
+212881,4257424,2024-04-19T19:00:00.000Z,71,Super Lig,9742,Ankaragücü,10188,Beşiktaş,False,2,0,90,0,0,0,0,6.7
+212881,4257385,2024-04-13T15:00:00.000Z,71,Super Lig,9742,Ankaragücü,4081,Gaziantep FK,True,3,1,90,0,0,0,0,7.9
+212886,4534780,2025-03-29T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8721,Wolfsburg,False,0,1,0,0,0,0,0,0
+212886,4534767,2025-03-16T17:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8150,Holstein Kiel,True,3,1,0,0,0,0,0,0
+212886,4534739,2025-02-23T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,178475,RB Leipzig,False,2,2,0,0,0,0,0,0
+212886,4695842,2025-02-20T18:45:00.000Z,10216,Conference League Final Stage,94937,FC Heidenheim,8391,FC København,True,1,3,0,0,0,0,0,0
+212886,4534732,2025-02-16T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9905,Mainz 05,True,0,2,0,0,0,0,0,0
+212886,4695834,2025-02-13T21:00:00.000Z,10216,Conference League Final Stage,94937,FC Heidenheim,8391,FC København,False,1,2,0,0,0,0,0,0
+212886,4534706,2025-01-25T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8406,Augsburg,False,2,1,0,0,0,0,0,0
+212886,4534697,2025-01-18T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8152,St. Pauli,True,0,2,0,0,0,0,0,0
+212886,4534688,2025-01-15T20:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8697,Werder Bremen,False,3,3,0,0,0,0,0,0
+212886,4622219,2024-12-19T21:00:00.000Z,10216,Conference League,94937,FC Heidenheim,10190,St. Gallen,True,1,1,0,0,0,0,0,0
+212886,4534659,2024-12-15T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,10269,VfB Stuttgart,True,1,3,0,0,0,0,0,0
+212886,4622200,2024-12-12T18:45:00.000Z,10216,Conference League,94937,FC Heidenheim,1933,Başakşehir,False,3,1,90,0,0,1,0,5.1
+212886,4534650,2024-12-07T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9823,Bayern München,False,4,2,0,0,0,0,0,0
+212886,4622217,2024-11-28T18:45:00.000Z,10216,Conference League,94937,FC Heidenheim,8455,Chelsea,True,0,2,0,0,0,0,0,0
+212886,4534623,2024-11-10T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8721,Wolfsburg,True,1,3,0,0,0,0,0,0
+212886,4622250,2024-11-07T21:00:00.000Z,10216,Conference League,94937,FC Heidenheim,9860,Hearts,False,0,2,0,0,0,0,0,0
+212886,4534620,2024-11-02T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8150,Holstein Kiel,False,1,0,0,0,0,0,0,0
+212886,4622277,2024-10-24T21:00:00.000Z,10216,Conference League,94937,FC Heidenheim,2137,Pafos FC,False,0,1,0,0,0,0,0,0
+212886,4534601,2024-10-19T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9788,Borussia Mönchengladbach,False,3,2,0,0,0,0,0,0
+212886,4534588,2024-10-06T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,178475,RB Leipzig,True,0,1,0,0,0,0,0,0
+212886,4622218,2024-10-03T18:45:00.000Z,10216,Conference League,94937,FC Heidenheim,7872,Olimpija Ljubljana,True,2,1,0,0,0,0,0,0
+212886,4534559,2024-09-13T20:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9789,Borussia Dortmund,False,4,2,0,0,0,0,0,0
+212886,4534553,2024-09-01T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8406,Augsburg,True,4,0,0,0,0,0,0,0
+212886,4591275,2024-08-29T20:30:00.000Z,10615,Conference League Qualification,94937,FC Heidenheim,8428,Häcken,True,3,2,0,0,0,0,0,0
+212886,4591274,2024-08-22T19:00:00.000Z,10615,Conference League Qualification,94937,FC Heidenheim,8428,Häcken,False,1,2,0,0,0,0,0,0
+212886,4222388,2024-05-18T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8722,1. FC Köln,True,4,1,0,0,0,0,0,0
+212886,4222373,2024-05-11T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8358,Freiburg,False,1,1,0,0,0,0,0,0
+212886,4222370,2024-05-05T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9905,Mainz 05,True,1,1,0,0,0,0,0,0
+212886,4222361,2024-04-28T19:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,8262,Darmstadt,False,0,1,0,0,0,0,0,0
+212886,4222182,2024-04-20T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,178475,RB Leipzig,True,1,2,0,0,0,0,0,0
+212886,4222170,2024-04-13T15:30:00.000Z,54,Bundesliga,94937,FC Heidenheim,9911,Bochum,False,1,1,0,0,0,0,0,0
+212893,4534753,2025-03-02T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8150,Holstein Kiel,True,0,1,15,0,0,1,0,5.8
+212893,4534740,2025-02-22T18:30:00.000Z,54,Bundesliga,8149,Union Berlin,9789,Borussia Dortmund,False,6,0,0,0,0,0,0,0
+212893,4534735,2025-02-15T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,9788,Borussia Mönchengladbach,True,1,2,0,0,0,0,0,0
+212893,4534723,2025-02-08T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8226,Hoffenheim,False,0,4,0,0,0,0,0,0
+212893,4534717,2025-02-01T18:30:00.000Z,54,Bundesliga,8149,Union Berlin,178475,RB Leipzig,True,0,0,0,0,0,0,0,0
+212893,4534710,2025-01-26T17:30:00.000Z,54,Bundesliga,8149,Union Berlin,8152,St. Pauli,False,3,0,30,0,0,0,0,5.7
+212893,4534699,2025-01-19T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,9905,Mainz 05,True,2,1,0,0,0,0,0,0
+212893,4534671,2024-12-21T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8697,Werder Bremen,False,4,1,0,0,0,0,0,0
+212893,4534646,2024-11-30T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8178,Bayer Leverkusen,True,1,2,5,0,0,0,0,0
+212893,4534627,2024-11-08T20:30:00.000Z,54,Bundesliga,8149,Union Berlin,8358,Freiburg,True,0,0,0,0,0,0,0,0
+212893,4623973,2024-10-30T20:45:00.000Z,209,DFB Pokal,8149,Union Berlin,9912,Arminia Bielefeld,False,2,0,13,0,0,0,0,6.1
+212893,4534602,2024-10-20T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8150,Holstein Kiel,False,0,2,0,0,0,0,0,0
+212893,4222381,2024-05-18T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8358,Freiburg,True,2,1,27,0,0,1,0,5.6
+212893,4222376,2024-05-11T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,8722,1. FC Köln,False,3,2,54,1,0,0,0,7.3
+212893,4222363,2024-05-05T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,9911,Bochum,True,3,4,45,0,0,0,0,5.9
+212893,4222358,2024-04-28T15:30:00.000Z,54,Bundesliga,8149,Union Berlin,9788,Borussia Mönchengladbach,False,0,0,87,0,0,0,0,6.7
+212893,4222175,2024-04-20T18:30:00.000Z,54,Bundesliga,8149,Union Berlin,9823,Bayern München,True,1,5,72,0,0,0,0,6.2
+212893,4222171,2024-04-12T20:30:00.000Z,54,Bundesliga,8149,Union Berlin,8406,Augsburg,False,2,0,24,0,0,0,0,6.3
+212896,4570433,2024-08-07T19:00:00.000Z,10615,Conference League Qualification,163540,Paide Linnameeskond,8428,Häcken,False,6,1,90,0,0,0,0,0
+212896,4509867,2024-08-01T18:30:00.000Z,10615,Conference League Qualification,163540,Paide Linnameeskond,6343,Stjarnan,True,4,0,90,1,0,0,0,7.3
+212896,4509866,2024-07-25T21:00:00.000Z,10615,Conference League Qualification,163540,Paide Linnameeskond,6343,Stjarnan,False,2,1,90,0,0,0,0,0
+212896,4507296,2024-07-18T18:30:00.000Z,10615,Conference League Qualification,163540,Paide Linnameeskond,175654,Bala Town,True,1,1,120,0,0,0,0,0
+212896,4507271,2024-07-11T20:00:00.000Z,10615,Conference League Qualification,163540,Paide Linnameeskond,175654,Bala Town,False,1,2,83,0,0,0,0,0

@@ -1,0 +1,181 @@
+{
+    "id": 212897,
+    "name": "Michael Arnold",
+    "birthDate": {
+        "utcTime": "1989-05-14T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": null,
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "keeper",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 187,
+                "key": null,
+                "fallback": "187 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 35,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "35"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 8319,
+                        "team": "Erzgebirge Aue",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "michael-arnold",
+        "pageurl": "/players/212897/michael-arnold",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Michael Arnold?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Michael Arnold is 35 years old. Born on Sun May 14 1989."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Michael Arnold?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Michael Arnold is 187 cm tall. Or 6 ft 1.6 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Michael Arnold born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Michael Arnold was born Sun May 14 1989 and is now 35 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Michael Arnold from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Michael Arnold is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Michael Arnold",
+            "birthDate": "1989-05-14T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212897/michael-arnold",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": null,
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "187"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "77"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Michael Arnold",
+                    "item": "https://www.fotmob.com/leagues/212897/overview/michael-arnold"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "unattached"
+}

@@ -1,0 +1,222 @@
+{
+    "id": 212877,
+    "name": "Deniz Herber",
+    "birthDate": {
+        "utcTime": "1992-03-05T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 4478,
+        "teamName": "St. Pauli II",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#5E4533",
+            "colorAlternate": "#5E4533",
+            "colorAway": "#5E4533",
+            "colorAwayAlternate": "#5E4533"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "midfielder",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 180,
+                "key": null,
+                "fallback": "180 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 33,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "33"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Turkiye"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "TUR"
+            },
+            "countryCode": "TUR"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 4478,
+                        "team": "St. Pauli II",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": true,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8152,
+                        "team": "St. Pauli",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8697,
+                        "team": "Werder Bremen",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "deniz-herber",
+        "pageurl": "/players/212877/deniz-herber",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Deniz Herber?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Deniz Herber is 33 years old. Born on Thu Mar 05 1992."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Deniz Herber?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Deniz Herber is 180 cm tall. Or 5 ft 10.9 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Deniz Herber born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Deniz Herber was born Thu Mar 05 1992 and is now 33 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Deniz Herber from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Deniz Herber is from Turkiye."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Deniz Herber",
+            "birthDate": "1992-03-05T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212877/deniz-herber",
+            "nationality": {
+                "@type": "Country",
+                "name": "Turkiye"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "St. Pauli II"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "180"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "80"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "St. Pauli II",
+                    "item": "https://www.fotmob.com/teams/4478/overview/st-pauli-ii"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Deniz Herber",
+                    "item": "https://www.fotmob.com/leagues/212877/overview/deniz-herber"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "active"
+}

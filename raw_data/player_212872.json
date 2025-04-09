@@ -1,0 +1,233 @@
+{
+    "id": 212872,
+    "name": "Chistian Grimm",
+    "birthDate": {
+        "utcTime": "1987-02-04T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 8273,
+        "teamName": "Pirmasens",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#304080",
+            "colorAlternate": "#304080",
+            "colorAway": "#304080",
+            "colorAwayAlternate": "#304080"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "midfielder",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 169,
+                "key": null,
+                "fallback": "169 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 38,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "38"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 8273,
+                        "team": "Pirmasens",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1435708800000,
+                        "endDate": "",
+                        "active": true,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 1734,
+                        "team": "Homburg",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1404172800000,
+                        "endDate": 1435622400000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8232,
+                        "team": "Elversberg",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1309478400000,
+                        "endDate": 1404086400000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 9905,
+                        "team": "Mainz 05",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "chistian-grimm",
+        "pageurl": "/players/212872/chistian-grimm",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Chistian Grimm?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Chistian Grimm is 38 years old. Born on Wed Feb 04 1987."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Chistian Grimm?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Chistian Grimm is 169 cm tall. Or 5 ft 6.5 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Chistian Grimm born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Chistian Grimm was born Wed Feb 04 1987 and is now 38 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Chistian Grimm from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Chistian Grimm is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Chistian Grimm",
+            "birthDate": "1987-02-04T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212872/chistian-grimm",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "Pirmasens"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "169"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "64"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Pirmasens",
+                    "item": "https://www.fotmob.com/teams/8273/overview/pirmasens"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Chistian Grimm",
+                    "item": "https://www.fotmob.com/leagues/212872/overview/chistian-grimm"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "active"
+}

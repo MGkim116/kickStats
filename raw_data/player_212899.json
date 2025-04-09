@@ -1,0 +1,156 @@
+{
+    "id": 212899,
+    "name": "Thomas Rudolph",
+    "birthDate": {
+        "utcTime": "1989-02-20T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": null,
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "midfielder",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 36,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "36"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Germany"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "GER"
+            },
+            "countryCode": "GER"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 8406,
+                        "team": "Augsburg",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": 1309392000000,
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "thomas-rudolph",
+        "pageurl": "/players/212899/thomas-rudolph",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Thomas Rudolph?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Thomas Rudolph is 35 years old. Born on Mon Feb 20 1989."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Thomas Rudolph born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Thomas Rudolph was born Mon Feb 20 1989 and is now 35 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Thomas Rudolph from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Thomas Rudolph is from Germany."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Thomas Rudolph",
+            "birthDate": "1989-02-20T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212899/thomas-rudolph",
+            "nationality": {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            "affiliation": null,
+            "gender": "https://schema.org/Male",
+            "height": null,
+            "weight": null
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Thomas Rudolph",
+                    "item": "https://www.fotmob.com/leagues/212899/overview/thomas-rudolph"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "unattached"
+}

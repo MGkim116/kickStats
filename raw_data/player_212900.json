@@ -1,0 +1,156 @@
+{
+    "id": 212900,
+    "name": "Christ Kasela Mbona",
+    "birthDate": {
+        "utcTime": "1991-12-19T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": null,
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "defender",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 33,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "33"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Congo"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "CGO"
+            },
+            "countryCode": "CGO"
+        }
+    ],
+    "mainLeague": {
+        "stats": null
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 9912,
+                        "team": "Arminia Bielefeld",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "christ-kasela-mbona",
+        "pageurl": "/players/212900/christ-kasela-mbona",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Christ Kasela Mbona?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Christ Kasela Mbona is 33 years old. Born on Thu Dec 19 1991."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Christ Kasela Mbona born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Christ Kasela Mbona was born Thu Dec 19 1991 and is now 33 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Christ Kasela Mbona from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Christ Kasela Mbona is from Congo."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Christ Kasela Mbona",
+            "birthDate": "1991-12-19T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212900/christ-kasela-mbona",
+            "nationality": {
+                "@type": "Country",
+                "name": "Congo"
+            },
+            "affiliation": null,
+            "gender": "https://schema.org/Male",
+            "height": null,
+            "weight": null
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "undefined undefined",
+                    "item": "https://www.fotmob.com/leagues/undefined/overview/undefined-undefined"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Christ Kasela Mbona",
+                    "item": "https://www.fotmob.com/leagues/212900/overview/christ-kasela-mbona"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": null,
+    "firstSeasonStats": null,
+    "status": "unattached"
+}

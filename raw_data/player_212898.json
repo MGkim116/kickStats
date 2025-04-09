@@ -1,0 +1,321 @@
+{
+    "id": 212898,
+    "name": "Adil Lachheb",
+    "birthDate": {
+        "utcTime": "1987-06-22T00:00:00.000Z",
+        "timezone": "UTC"
+    },
+    "isCoach": false,
+    "isCaptain": false,
+    "primaryTeam": {
+        "teamId": 95049,
+        "teamName": "SV Straelen",
+        "onLoan": false,
+        "teamColors": {
+            "color": "#333333",
+            "colorAlternate": "#DDDDDD",
+            "colorAway": "#333333",
+            "colorAwayAlternate": "#DDDDDD"
+        }
+    },
+    "positionDescription": {
+        "primaryPosition": {
+            "label": "defender",
+            "key": null
+        }
+    },
+    "injuryInformation": null,
+    "internationalDuty": null,
+    "playerInformation": [
+        {
+            "value": {
+                "numberValue": 194,
+                "key": null,
+                "fallback": "194 cm"
+            },
+            "title": "Height",
+            "translationKey": "height_sentencecase"
+        },
+        {
+            "value": {
+                "numberValue": 37,
+                "options": {
+                    "style": "unit",
+                    "unit": "year",
+                    "unitDisplay": "long"
+                },
+                "key": null,
+                "fallback": "37"
+            },
+            "title": "Age",
+            "translationKey": "age_sentencecase"
+        },
+        {
+            "value": {
+                "key": null,
+                "fallback": "Tunisia"
+            },
+            "title": "Country",
+            "translationKey": "country_sentencecase",
+            "icon": {
+                "type": "country",
+                "id": "TUN"
+            },
+            "countryCode": "TUN"
+        }
+    ],
+    "mainLeague": {
+        "leagueId": 512,
+        "leagueName": "Regionalliga West",
+        "season": "2021/2022",
+        "stats": [
+            {
+                "title": "Goals",
+                "localizedTitleId": "goals",
+                "value": 1
+            },
+            {
+                "title": "Started",
+                "localizedTitleId": "started",
+                "value": 0
+            },
+            {
+                "title": "Matches",
+                "localizedTitleId": "matches_uppercase",
+                "value": 0
+            },
+            {
+                "title": "Minutes played",
+                "localizedTitleId": "minutes_played",
+                "value": 0
+            },
+            {
+                "title": "Yellow cards",
+                "localizedTitleId": "yellow_cards",
+                "value": 0
+            },
+            {
+                "title": "Red cards",
+                "localizedTitleId": "red_cards",
+                "value": 0
+            }
+        ]
+    },
+    "trophies": null,
+    "recentMatches": null,
+    "careerHistory": {
+        "careerItems": {
+            "senior": {
+                "teamEntries": [
+                    {
+                        "teamId": 95049,
+                        "team": "SV Straelen",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1530403200000,
+                        "endDate": "",
+                        "active": true,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 95204,
+                        "team": "Germania Halberstadt",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1467331200000,
+                        "endDate": 1530403200000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8253,
+                        "team": "Hessen Kassel",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1391040000000,
+                        "endDate": 1404172800000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 7761,
+                        "team": "Hallescher FC",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": 1391040000000,
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 7789,
+                        "team": "Jahn Regensburg",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": 1422489600000,
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8293,
+                        "team": "MSV Duisburg",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    },
+                    {
+                        "teamId": 8319,
+                        "team": "Erzgebirge Aue",
+                        "teamGender": null,
+                        "role": null,
+                        "showTeamGender": false,
+                        "startDate": "",
+                        "endDate": "",
+                        "active": false,
+                        "transferType": null
+                    }
+                ],
+                "seasonEntries": null
+            },
+            "national team": {
+                "teamEntries": [],
+                "seasonEntries": null
+            }
+        },
+        "fullCareer": false
+    },
+    "traits": null,
+    "meta": {
+        "seopath": "adil-lachheb",
+        "pageurl": "/players/212898/adil-lachheb",
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How old is Adil Lachheb?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Adil Lachheb is 37 years old. Born on Mon Jun 22 1987."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How tall is Adil Lachheb?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Adil Lachheb is 194 cm tall. Or 6 ft 4.4 in."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "When was Adil Lachheb born?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Adil Lachheb was born Mon Jun 22 1987 and is now 37 years old."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Adil Lachheb from?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Adil Lachheb is from Tunisia."
+                    }
+                }
+            ]
+        },
+        "personJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Adil Lachheb",
+            "birthDate": "1987-06-22T00:00:00.000Z",
+            "url": "https://www.fotmob.com/players/212898/adil-lachheb",
+            "nationality": {
+                "@type": "Country",
+                "name": "Tunisia"
+            },
+            "affiliation": {
+                "@type": "SportsTeam",
+                "name": "SV Straelen"
+            },
+            "gender": "https://schema.org/Male",
+            "height": {
+                "@type": "QuantitativeValue",
+                "unitText": "cm",
+                "value": "194"
+            },
+            "weight": {
+                "@type": "QuantitativeValue",
+                "unitText": "kg",
+                "value": "88"
+            }
+        },
+        "breadcrumbJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.fotmob.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Regionalliga West 2021/2022",
+                    "item": "https://www.fotmob.com/leagues/512/overview/regionalliga-west-20212022"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "SV Straelen",
+                    "item": "https://www.fotmob.com/teams/95049/overview/sv-straelen"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Adil Lachheb",
+                    "item": "https://www.fotmob.com/leagues/212898/overview/adil-lachheb"
+                }
+            ]
+        }
+    },
+    "coachStats": null,
+    "statSeasons": [
+        {
+            "seasonName": "2021/2022",
+            "tournaments": [
+                {
+                    "name": "Regionalliga West",
+                    "tournamentId": 512,
+                    "entryId": "0-0"
+                }
+            ]
+        },
+        {
+            "seasonName": "2020/2021",
+            "tournaments": [
+                {
+                    "name": "Regionalliga West",
+                    "tournamentId": 512,
+                    "entryId": "1-0"
+                }
+            ]
+        }
+    ],
+    "firstSeasonStats": null,
+    "status": "active"
+}
