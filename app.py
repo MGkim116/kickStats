@@ -5,7 +5,7 @@ import pandas as pd
 page_bg_css = '''
 <style>
 [data-testid="stAppViewContainer"] {
-    background-image: url("https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAxODA3MDRfMjQx%2FMDAxNTMwNzEzODYzMTU5.mnXVzi63HeSCj2IeNFpjaDtTR3I7vXuvO5PBYNAPI0Ug.PoQ4v0LB6dKgWkj0N9DCO7YmYnuGirMwTJ7W-DhdTJMg.JPEG.halamadridista%2FexternalFile.jpg&type=sc960_832");
+    background-image: url("https://search.pstatic.net/sunny/?src=https%3A%2F%2Fe1.pxfuel.com%2Fdesktop-wallpaper%2F132%2F292%2Fdesktop-wallpaper-60-real-madrid-at-bro-1000x1777-for-your-mobile-tablet-real-madrid-2022.jpg&type=sc960_832");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
